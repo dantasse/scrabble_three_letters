@@ -28,15 +28,18 @@ if __name__ == '__main__':
         if word < args.start_at:
             continue
 
-        definitions = wordApi.getDefinitions(word, limit=2)
-                                             # partOfSpeech='verb',
-                                             # sourceDictionaries='wiktionary',
-        if definitions:
-            writer.writerow((word, definitions[0].text))
-        else:
-            writer.writerow((word, 'No definition found.\n'))
-        outfile.flush()
-        # print definitions
-        # print definitions[0].text
-        # print definitions[1].text
+        try:
+            definitions = wordApi.getDefinitions(word, limit=2)
+                                                 # partOfSpeech='verb',
+                                                 # sourceDictionaries='wiktionary',
+            if definitions:
+                writer.writerow((word, definitions[0].text))
+            else:
+                writer.writerow((word, 'No definition found.'))
+            outfile.flush()
+        except:
+            # TODO this errors on any non-ascii character. Fix that.
+            # This is a stopgap just so the script keeps going.
+            writer.writerow((word, 'Error finding definition.'))
+            outfile.flush()
         time.sleep(5)
