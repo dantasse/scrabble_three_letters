@@ -1030,6 +1030,7 @@ wud,Mad.
 wuz,Eye dialect spelling of was.
 wye,The letter y.
 wyn,Alternative spelling of wynn.
+xed,Marked with an x.
 xis,Plural form of xi.
 yag,"A synthetic garnet."
 yah,Yes.
@@ -1048,6 +1049,7 @@ yer,your
 yes,"Used to express affirmation, agreement, positive confirmation, or consent."
 yet,At this time; for the present:  isn't ready yet. 
 yew,"Any of several poisonous evergreen trees or shrubs of the genus Taxus, having scarlet cup-shaped arils and flat needles that are dark green above and yellowish below."
+yez,you.
 yid,Offensive Slang   Used as a disparaging term for a Jew.
 yin,"The passive, female cosmic principle in Chinese dualistic philosophy."
 yip,"A sharp, high-pitched bark; a yelp."
