@@ -25,11 +25,11 @@ static void update_time() {
   
   text_layer_set_text(date_layer, current_date);
   
-  char* current_word = "ZZ";
+  char* current_word = "ZZZ";
   int word_num = (tick_time->tm_hour * 60 + tick_time->tm_min) % NUM_WORDS_IN_LIST;
-  strncpy(current_word, words[word_num], 2);
+  strncpy(current_word, words[word_num], 3);
   text_layer_set_text(word_layer, current_word);
-  text_layer_set_text(defn_layer, words[word_num] + 4); // skip 4 char ahead
+  text_layer_set_text(defn_layer, words[word_num] + 5); // skip 5 char ahead
 }
 
 static void tick_handler(struct tm *tick_time, TimeUnits units_changed) {
@@ -57,7 +57,7 @@ void handle_init(void) {
   my_window = window_create();
   
   // Load the text from the twoletters.txt file.
-  ResHandle rh = resource_get_handle(RESOURCE_ID_TWO_LETTERS);
+  ResHandle rh = resource_get_handle(RESOURCE_ID_THREE_LETTERS);
   size_t res_size = resource_size(rh) + 1;
   uint8_t *all_text_buffer_uint = (uint8_t*) malloc(res_size);
   resource_load(rh, all_text_buffer_uint, res_size);

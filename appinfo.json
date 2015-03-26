@@ -7,7 +7,13 @@
     "longName": "ScrabbleThreeLetters",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "data/defns.txt",
+                "name": "THREE_LETTERS",
+                "type": "raw"
+            }
+        ]
     },
     "sdkVersion": "2",
     "shortName": "ScrabbleThreeLetters",
