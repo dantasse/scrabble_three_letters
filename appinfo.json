@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dan.tasse@gmail.com",
+    "longName": "ScrabbleThreeLetters",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "ScrabbleThreeLetters",
+    "uuid": "01784f6f-3776-4a64-9b96-688a4df4bfe7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
