@@ -3,7 +3,7 @@ aah,Used to express pleasure or joy.
 aal,The Indian mulberry or Noni.
 aas,an outer garment made from aba cloth.
 aba,A fabric woven of the hair of camels or goats.
-abo,a member of a race of people living in Australia when Europeans arrived
+abo,Aboriginal.
 abs,absolute temperature
 aby,atone for, make amends for.
 ace,A single spot or pip on a playing card.
@@ -14,7 +14,7 @@ ads,Plural form of ad.
 adz,An axlike tool with a curved blade, used for shaping wood.
 aff,Off.
 aft,Toward the stern of a vessel.
-aga,title for a civil or military leader, especially in Turkey.
+aga,title for a military leader, especially in Turkey.
 age,Duration of life. 
 ago,Gone by; past. 
 ags,Plural form of ag, agriculture.
@@ -25,7 +25,7 @@ aid,To help.
 ail,To feel ill or have pain.
 aim,To direct a weapon toward a target.
 ain,Scots   Own.
-air,What's all around us.
+air,Mixture of gases that surrounds the Earth.
 ais,Plural form of ai.
 ait,British   A small island.
 aji,A type of chili pepper.
@@ -35,12 +35,12 @@ ale,A type of beer.
 all,The entire or total amount.
 alp,A high mountain.
 als,Also.
-alt,Pitched in the first octave above the treble staff; high.
+alt,A high-pitched musical note.
 ama,Alternative spelling of amah.
 ami,A friend.
 amp,An ampere.
 amu,atomic mass unit
-ana,A collection of materials that reflect the character of a person or place. 
+ana,A collection of misc. info about a subject. 
 and,In addition to; as well as.
 ane,Scots   One.
 ani,tropical American bird, related to the cuckoo.
@@ -49,15 +49,15 @@ any,One, some, every, or all without specification.
 ape,a primate
 apo,In an inactive, unbound state
 app,A computer application.
-apt,Exactly suitable; appropriate:  an apt reply. 
+apt,Exactly suitable; appropriate. 
 arb,An arbitrageur.
-arc,Something shaped like a curve or arch:  the vivid arc of a rainbow. 
+arc,Something shaped like a curve or arch. 
 are,form of 'to be'.
 arf,a dog's bark.
 ark,Bible   The chest containing the Ten Commandments.
 arm,An upper limb of the human body.
 ars,Plural form of ar.
-art,Human effort to imitate, supplement, alter, or counteract the work of nature.
+art,Aesthetically pleasing and meaningful arrangement of elements.
 ash,The powder left when something is burned.
 ask,To put a question to. 
 asp,a type of snake.
@@ -69,9 +69,9 @@ ava,Alternative form of kava.
 ave,A greeting or farewell.
 avo,A monetary unit of Macao.
 awa,A Scotch form of away.
-awe,A mixed emotion of reverence, respect, dread, and wonder.
-awl,A pointed tool for making holes, as in wood or leather.
-awn,A slender, bristlelike appendage found on the spikelets of many grasses.
+awe,A mixed emotion of reverence, dread, and wonder.
+awl,A pointed tool for making holes.
+awn,A bristlelike appendage on many grasses.
 axe,Variant of ax.
 aye,An affirmative vote.
 ays,ayes, affirmative votes.
@@ -87,7 +87,7 @@ bap,A soft bread roll, originally from Scotland.
 bar,A  piece of solid material.
 bas,Plural form of ba, the Egyptian immortal soul.
 bat,A stout wooden stick; a cudgel.
-bay,A body of water partially enclosed by land but with a wide mouth. 
+bay,A body of water partially enclosed by land with a wide mouth. 
 bed,A piece of furniture for sleeping.
 bee,A winged, hairy-bodied, usually stinging insect.
 beg,To ask for as charity.
@@ -101,8 +101,8 @@ bid,To issue a command to.
 big,Large.
 bin,A container or enclosed space for storage.
 bio,Informal   A biography.
-bis,Music   Again; twice. Used as a direction to repeat a passage.
-bit,A small portion, degree, or amount:  a bit of lint; a bit of luck. 
+bis,Music   Again; twice.
+bit,A small portion, degree, or amount. 
 biz,Informal   Business.
 boa,A type of snake that suffocates its prey.
 bob,To hit lightly and quickly; tap.
@@ -118,15 +118,15 @@ boy,A male child.
 bra,A brassiere.
 bro,Slang   A brother.
 brr,An expression used to express being cold.
-bub,Slang   A term of familiar address, especially for a man or boy. 
+bub,Slang   A term of familiar address. 
 bud,Botany   A small protuberance on a stem or branch.
 bug,A true bug.
 bum,A tramp; a vagrant.
 bun,A small bread roll.
-bur,A rough prickly husk surrounding the seeds of some plants.
+bur,A prickly husk surrounding the seeds of some plants.
 bus,A long motor vehicle for carrying passengers.
 but,On the contrary. 
-buy,To purchase..
+buy,To purchase.
 bye,A secondary matter.
 bys,Plural form of by.
 cab,A taxicab.
@@ -141,17 +141,17 @@ cat,A kitty.
 caw,The sound that is characteristic of a crow or similar bird.
 cay,A small, low island composed largely of coral or sand.
 cee,The letter c.
-cel,A piece of celluloid on which has been drawn a frame of an animated film.
+cel,A piece of celluloid with a frame of an animated film.
 cep,Cepe, a large mushroom.
 chi,The 22nd letter of the Greek alphabet.
 cig,cigarette
-cis,Having two mutations on two genes on the same chromosome of a homologous pair.
+cis,Having certain atoms on the same side of the molecule.
 cob,A corncob. 
 cod,A type of fish.
 cog,One of a series of teeth, as on the rim of a wheel or gear.
 col,A pass between two mountain peaks.
 con,In opposition or disagreement. 
-coo,To utter the murmuring sound of a dove or pigeon or a sound resembling it.
+coo,To make the sound of a dove.
 cop,Informal   A police officer.
 cor,A Hebrew measure of capacity; a core or homer.
 cos,A variety of lettuce.
@@ -163,12 +163,12 @@ coz,Informal   A cousin.
 cru,A vineyard or wine-producing region in France.
 cry,To sob or weep.
 cub,A young bear, wolf, or lion.
-cud,Food regurgitated from the first stomach to the mouth of a ruminant and chewed again.
+cud,A portion of food to be chewed again by a cow.
 cue,A rod used to strike the cue ball in billiards.
 cum,Together with. 
 cup,A small open container used for drinking.
-cur,A dog considered to be inferior or undesirable; a mongrel.
-cut,To penetrate with a sharp edge; strike a narrow opening in.
+cur,A dog considered to be inferior or undesirable.
+cut,To penetrate with a sharp edge.
 cuz,because
 cwm,A cirque, a deep, steep-walled basin on a mountain.
 dab,To apply with short poking strokes.
@@ -192,7 +192,7 @@ dep,deposit
 dev,developer
 dew,Water condensed from the air, usually at night.
 dex,Slang   Dextroamphetamine.
-dey,The governor of Algiers before the French conquest in 1830.
+dey,Governor of Algiers before the French conquest in 1830.
 dib,to dig a hole by poking
 did,Past tense of do.
 die,To cease living.
@@ -212,10 +212,10 @@ dom,A dominator (in S&M), especially a male one.
 don,Courtesy title for a man in a Spanish-speaking area.
 dor,A large European dung beetle.
 dos,Plural form of do.
-dot,A tiny round mark made by or as if by a pointed instrument; a spot.
+dot,A tiny round mark; a spot.
 dow,To be worth.
 dry,Free from liquid or moisture. 
-dub,To tap lightly on the shoulder by way of conferring knighthood.
+dub,To tap lightly on the shoulder to confer knighthood.
 dud,A bomb, shell, or explosive round that fails to detonate.
 due,Payable immediately or on demand.
 dug,An udder, breast, or teat of a female animal.
@@ -232,7 +232,7 @@ eau,Water.
 ebb,Ebb tide.
 eco,Environmentally friendly or sensitive.
 ecu,The European Currency Unit, a pre-euro currency.
-edh,eth; A letter appearing in Old English/Saxon/Norse, and modern Icelandic.
+edh,eth; An old English letter.
 eds,a system to detect plastic explosives in luggage using X-rays
 eek,Representing a scream or shriek.
 eel,A long, snakelike, scaleless marine or freshwater fish.
@@ -271,7 +271,7 @@ eve,The evening or day preceding a special day, such as a holiday.
 ewe,A female sheep, especially when full grown.
 eye,An organ of vision or of light sensitivity.
 fab,Informal   Fabrication:  building a shed of metal fab. 
-fad,A fashion that is taken up with great enthusiasm for a brief period of time; a craze.
+fad,A brief fashion; a craze.
 fag,A British student who has to perform menial tasks for an older student.
 fah,An anglicised spelling of fa.
 fan,A device for creating a current of air or a breeze.
@@ -342,8 +342,8 @@ gen,gender
 get,To receive.
 gey,Very.
 ghi,Ghee.
-gib,A piece of wood or metal designed to hold parts of a machine in place.
-gid,A disease of herbivores, especially sheep, resulting in a staggering gait.
+gib,A piece of wood or metal to hold parts of a machine in place.
+gid,A disease of sheep resulting in a staggering gait.
 gie,Scots   Variant of give.
 gif,GIF
 gig,A light, two-wheeled carriage drawn by one horse.
@@ -359,7 +359,7 @@ goo,Informal   A sticky wet viscous substance.
 gor,An unfledged bird.
 gos,A Middle English form of goose.
 got,Past tense and a past participle of get.
-gox,GOX, gaseous oxygen, as differentiated from LOX (liquid oxygen)
+gox,GOX, gaseous oxygen.
 goy,Offensive   Used as a disparaging term for one who is not a Jew.
 grr,A growl of anger or disappointment.
 gul,A stylized octagonal motif in Oriental rugs.
@@ -469,7 +469,7 @@ kab,Variant of cab.
 kae,A bird resembling a crow.
 kaf,The twenty-second letter of the Arabic alphabet.
 kas,A large cupboard.
-kat,Symbol for katal, an SI unit of measurement of catalytic activity.
+kat,Symbol for katal, a unit of catalytic activity.
 kay,The letter k.
 kea,A New Zealand parrot.
 kef,Variant of kif.
@@ -480,7 +480,7 @@ kex,The dried stem of certain large herbaceous plants.
 key,What opens a lock.
 khi,Variant of chi.
 kid,A young goat.
-kif,Smoking material, such as Indian hemp, used especially in the Maghreb.
+kif,Smoking material, used especially in the Maghreb.
 kin,One's relatives; family; kinfolk.
 kip,To sleep.
 kir,A drink consisting of champagne with cassis.
@@ -524,7 +524,7 @@ lez,Offensive Slang   A disparaging term for a lesbian.
 lib,A movement that seeks to achieve equal rights for a group.
 lid,A cover for a hollow receptacle or box.
 lie,To recline. 
-lin,A pool or collection of water, particularly one above or below a waterfall.
+lin,Linn, a waterfall or pool below a waterfall.
 lip,Half of a mouth.
 lis,A controversy; a litigation.
 lit,A past tense and a past participle of light.
@@ -541,7 +541,7 @@ lug,A handle or projection used as a hold or support.
 lum,A chimney.
 lun,A lee.
 luv,deliberate misspelling of love
-lux,A unit of illumination, equal to one lumen per square meter.
+lux,A unit of illumination, one lumen per square meter.
 lye,The liquid obtained by leaching wood ashes.
 mac,British   A mackintosh.
 mad,Angry; resentful.
@@ -580,7 +580,7 @@ mob,A large disorderly crowd or throng.
 moc,A moccasin.
 mod,A style of fashionable dress in England in the 1960s.
 mog,A cat.
-moi,Interjection, used instead of 'me?' to feign surprise when accused of something.
+moi,Used instead of 'me?' to feign surprise.
 mol,Variant of mole.
 mom,Informal   Mother.
 mon,Scots   Man.
@@ -596,22 +596,22 @@ mum,Silent.
 mun,Must.
 mus,Plural of greek letter Mu.
 mut,Mutt.
-mux,To transmit several messages simultaneously along a single channel.
+mux,A multiplexer.
 myc,A gene that promotes the growth of tumor cells.
 nab,Informal   To seize; arrest.
 nae,Scots   No.
 nag,To annoy by constant scolding or urging.
 nah,No.
 nam,Alternate form of nim, to steal.
-nan,Variant of naan.
+nan,Variant of naan, an Indian bread.
 nap,A brief sleep, often during the day.
 nav,Navigation.
 naw,No.
 nay,No. 
 neb,A beak of a bird.
-nee,Used when giving the maiden name of a woman.
-neg,negative
-net,A fabric made of threads woven together at regular intervals.
+nee,Born with the name of.
+neg,Negative
+net,A type of openwork fabric.
 new,Recent. 
 nib,The sharpened point of a quill pen.
 nil,Nothing; zero.
@@ -629,7 +629,7 @@ nor,And not; or not.
 nos,Plural form of no.
 not,In no way. 
 now,At the present time. 
-nth,Relating to an unspecified ordinal number. 
+nth,An unspecified ordinal number. 
 nub,A protuberance or knob.
 nug,A piece of marijuana.
 nun,A woman who belongs to a religious order.
@@ -639,306 +639,306 @@ oaf,A person regarded as stupid or clumsy.
 oak,A type of tree.
 oar,A pole with a blade at one end, used to row a boat.
 oat,An edible grain.
-oba,A hereditary chief or king among various peoples of Benin and Nigeria.
+oba,A hereditary chief in Benin and Nigeria.
 obe,A particular subdivision of ancient Laconia.
-obi,A wide sash fastened in the back with a large flat bow, worn by women in Japan as a part of the traditional dress.
-oca,A perennial plant (Oxalis tuberosa) of the high Andes, grown for its edible tubers.
+obi,A sash worn around the waist of a Japanese kimono.
+oca,An Andean perennial plant, grown for its edible tubers.
 och,an expression of anger, frustration, surprise
 oda,room within a harem
-odd,Deviating from what is ordinary, usual, or expected; strange or peculiar:  an odd name; odd behavior.
-ode,A lyric poem of some length, usually of a serious or meditative nature and having an elevated style and formal stanzaic structure.
+odd,Strange or peculiar.
+ode,A type of lyric poem.
 ods,Plural form of od.
-oes,Plural form of o., the name of the letter O.
-off,From a place or position:  drove off. 
-oft,Often. Often used in combination:  his oft-expressed philosophy; oft-repeated tales. 
-ohm,A unit of electrical resistance equal to that of a conductor in which a current of one ampere is produced by a potential of one volt across its terminals.
-oho,Used to express surprise, comprehension, or mock astonishment.
+oes,Plural form of o, the name of the letter O.
+off,Opposite of on. 
+oft,Often. 
+ohm,A unit of electrical resistance.
+oho,Used to express surprise.
 ohs,Plural form of oh.
 oik,a member of the lower classes.
-oil,Any of numerous mineral, vegetable, and synthetic substances and animal and vegetable fats that are generally slippery, combustible, viscous, liquid or liquefiable at room temperatures, soluble in various organic solvents such as ether but not in water, and used in a great variety of products, especially lubricants and fuels.
-oka,A unit of weight in the Ottoman Empire and certain successor states, of variable value, but generally about 1.25 kilograms (2.75 pounds).
-oke,A Turkish, Egyptian, Hungarian and Wallachian unit of weight, equal to about 2 & 3/4 lbs.
-old,Having lived or existed for a relatively long time; far advanced in years or life.
-ole,Eye dialect spelling of old.
-oma,grandmother, grandma.
+oil,A greasy liquid used for lubrication or fuel.
+oka,A Turkish unit of weight, about 2.75 lb.
+oke,oka, A Turkish unit of weight.
+old,Having lived for a long time.
+ole,A shout of approval.
+oma,grandmother.
 oms,Plural form of om.
-one,Being a single entity, unit, object, or living being.
+one,A number.
 ono,good-tasting, delicious.
-ons,Plural form of on, the side of a wicket where a batsman stands in cricket.
+ons,Plural form of on, where a batsman stands in cricket.
 oof,Money.
-ooh,Used to express pleasure, satisfaction, surprise, or great joy.
+ooh,Used to express pleasure, surprise, or joy.
 oot,anything
-opa,Command/suggestion to halt, bring to a stop.
+opa,Grandfather.
 ope,open
 ops,Plural form of op.
-opt,To make a choice or decision:  opted for early retirement; opted not to go. 
-ora,Plural of os.
-orb,A sphere or spherical object.
-orc,Any of several cetaceans, especialy the grampus (Grampus griseus) of the dolphin family.
-ore,A mineral or an aggregate of minerals from which a valuable constituent, especially a metal, can be profitably mined or extracted.
+opt,To make a choice or decision. 
+ora,An orifice.
+orb,A spherical object.
+orc,A marine mammal.
+ore,A mineral containing valuable metals.
 org,organization
 ors,Plural of or, the heraldric color gold.
-ort,A small scrap or leaving of food after a meal is completed. Often used in the plural.
+ort,A small scrap of food after a meal is completed.
 ose,An esker, a narrow ridge of gravel or sand.
-oud,A musical instrument of northern Africa and southwest Asia resembling a lute.
-our,Used as a modifier before a noun:  our accomplishments; our hometown. 
-out,In a direction away from the inside:  Let's go out and look at the stars. 
+oud,A musical instrument resembling a lute.
+our,Possessive of 'we'. 
+out,In a direction away from the inside.
 ova,Plural of ovum.
-owe,To be indebted to the amount of:  He owes me five dollars. 
-owl,Any of various often nocturnal birds of prey of the order Strigiformes, having hooked and feathered talons, large heads with short hooked beaks, large eyes set forward, and fluffy plumage that allows for almost noiseless flight.
-own,Of or belonging to oneself or itself:  She makes her own clothes. 
-owt,aught, anything
-oxo,A substituent oxygen atom connected to another atom by a double bond
-oxy,the bivalent R-O-R functional group found in ethers
-pac,A moccasin or soft shoe designed to be worn inside a boot.
-pad,A thin, cushionlike mass of soft material used to fill, to give shape, or to protect against jarring, scraping, or other injury.
+owe,To be indebted to. 
+owl,A type of nocturnal bird of prey.
+own,Of or belonging to oneself or itself.
+owt,Aught, anything
+oxo,Containing oxygen.
+oxy,Containing oxygen.
+pac,A soft shoe designed to be worn inside a boot.
+pad,To line with soft material.
 pah,Used to express disgust or irritation.
 pak,deliberate misspelling of pack
 pal,A friend; a chum.
 pam,The jack of clubs and highest trump in certain variations of loo.
-pan,A shallow, wide, open container, usually of metal and without a lid, used for holding liquids, cooking, and other domestic purposes.
+pan,A shallow, wide, open container, used cooking.
 pap,Midland U.S.   A teat or nipple.
-par,An amount or level considered to be average; a standard:  performing up to par; did not yet feel up to par. 
+par,An amount considered to be average.
 pas,A step or dance.
-pat,To tap gently with the open hand or with something flat.
-paw,The foot of an animal, especially a quadruped, that has claws or nails.
-pax,Ecclesiastical   A small flat tablet adorned with a sacred image that worshippers kiss when offered the kiss of peace.
-pay,To give money to in return for goods or services rendered:  pay the cashier. 
-pea,A member of the pea family.
+pat,To tap gently with the open hand.
+paw,The foot of an animal.
+pax,A ceremonial embrace to signify Christian love and unity.
+pay,To give money to in return for goods or services rendered.
+pea,The edible seed of an annual herb.
 pec,Slang  A pectoral muscle.
 ped,A pedestrian.
 pee,The letter p.
-peg,A small cylindrical or tapered pin, as of wood, used to fasten things or plug a hole.
+peg,A small cylindrical or tapered pin.
 peh,Pe, a Hebrew letter.
-pen,An instrument for writing or drawing with ink or similar fluid, especially:
-pep,Energy and high spirits; vim.
-per,To, for, or by each; for every:  Gasoline once cost 40 cents per gallon. 
-pes,A foot or footlike part, especially the foot of a four-footed vertebrate.
+pen,An instrument for writing or drawing.
+pep,Energy and high spirits.
+per,To, for, or by each; for every.
+pes,A foot or footlike part.
 pet,An animal kept for amusement or companionship.
-pew,One of the long, fixed, backed benches that are arranged in rows for the seating of a congregation in church.
-phi,The 21st letter of the Greek alphabet.
+pew,One of the long, fixed, backed benches in a church.
+phi,The 21st Greek letter.
 pho,A Vietnamese rice noodle served in a soup often with beef.
 pht,Used to signify mild annoyance or disagreement
-pia,The pia mater.
+pia,A membrane of the brain.
 pic,Slang   A photograph.
-pie,A baked food composed of a pastry shell filled with fruit, meat, cheese, or other ingredients, and usually covered with a pastry crust.
-pig,Any of several mammals of the family Suidae, having short legs, cloven hooves, bristly hair, and a cartilaginous snout used for digging, especially the domesticated hog, Sus scrofa domesticus, when young or of comparatively small size.
-pin,A short, straight, stiff piece of wire with a blunt head and a sharp point, used especially for fastening.
-pip,The small seed of a fruit, as that of an apple or orange.
+pie,A baked food with a pastry crust.
+pig,A hoofed mammal with a flat snout.
+pin,A straight, stiff piece of wire with a a sharp point.
+pip,The small seed of a fruit.
 pis,Plural form of pi.
-pit,A natural or artificial hole or cavity in the ground.
+pit,A hole in the ground.
 piu,More, used as a musical direction.
 pix,A plural of pic.
 ply,To join together, as by molding or twisting.
-pod,Botany   A dehiscent fruit of a leguminous plant such as the pea.
+pod,Botany   A fruit of a leguminous plant such as the pea.
 poh,Expressing contempt or disgust; bah.
-poi,A Hawaiian food made from the tuber of the taro that is cooked, pounded to a paste, and fermented.
+poi,A Hawaiian food made from taro.
 pol,Informal   A politician.
-pom,An American alcoholic drink containing vodka and pomegranate juice.
+pom,A drink containing vodka and pomegranate juice.
 poo,To defecate.
 pop,To make a short, sharp, explosive sound.
 pos,positive
-pot,Any of various usually domestic containers made of pottery, metal, or glass, as:
-pow,Represents the sound of a violent impact, such as a punch.
-pox,A disease such as chickenpox or smallpox, characterized by purulent skin eruptions that may leave pockmarks.
-pro,An argument or consideration in favor of something:  weighing the pros and cons. 
-pry,To look or inquire closely, curiously, or impertinently:  was always prying into the affairs of others. 
+pot,A domestic container made of pottery, metal, or glass.
+pow,The sound of a violent impact, such as a punch.
+pox,A disease such as chickenpox or smallpox.
+pro,An argument in favor of something.
+pry,To look or inquire closely.
 psi,The 23rd letter of the Greek alphabet.
 pst,Alternative form of psst.
-pub,A place of business where alcoholic beverages are sold and drunk.
-pud,pudding (either sweet or savoury)
-pug,A small sturdy dog of an ancient breed originating in China, having a snub nose, wrinkled face, squarish body, short smooth hair, and curled tail.
+pub,A place of business where alcohol is sold and drunk.
+pud,pudding
+pug,A small sturdy dog.
 pul,A coin of Afghanistan.
-pun,A play on words, sometimes on different senses of the same word and sometimes on the similar sense or sound of different words.
+pun,A play on words.
 pup,A young dog; a puppy.
-pur,Dated form of purr (low murmuring sound as of a cat)
-pus,A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue.
-put,To place in a specified location; set:  She put the books on the table. 
+pur,Dated form of purr.
+pus,A fluid formed in infected tissue.
+put,To place in a specified location; set.
 pya,A copper coin of Myanmar (Burma).
-pye,Archaic spelling of pie (the pastry food).
-pyx,Ecclesiastical   A container in which wafers for the Eucharist are kept.
+pye,Archaic spelling of pie.
+pyx,A container in which wafers for the Eucharist are kept.
 qat,Alternative form of khat.
 qis,Plural form of qi.
 qua,In the capacity or character of; as.
-rad,An obsolete unit of energy absorbed from ionizing radiation, equal to 100 ergs per gram or 0.01 joules per kilogram of irradiated material.
+rad,An obsolete unit of energy absorbed from ionizing radiation.
 rag,A scrap of cloth.
-rah,Used as an exclamation of approval or encouragement.
-rai,A form of popular Algerian music combining traditional Arabic vocal styles with various elements of popular Western music and featuring outspoken, often controversial lyrics.
-raj,Dominion or rule, especially the British rule over India (1757-1947).
+rah,An exclamation of approval or encouragement.
+rai,A form of popular Algerian music.
+raj,Dominion or rule, especially British over India (1757-1947).
 ram,A male sheep.
 ran,Past tense of run.
-rap,To hit sharply and swiftly; strike:  rapped the table with his fist. 
+rap,To hit sharply and swiftly.
 ras,An Ethiopian king or prince.
-rat,Any of various long-tailed rodents resembling mice but larger, especially one of the genus Rattus.
-raw,Uncooked:  raw meat. 
-rax,barracks
-ray,A thin line or narrow beam of light or other radiant energy.
+rat,A rodent resembling a mouse but larger.
+raw,Uncooked.
+rax,Barracks
+ray,A thin beam of light or other radiant energy.
 reb,A Confederate soldier.
 rec,Informal   Recreation.
-red,The hue of the long-wave end of the visible spectrum, evoked in the human observer by radiant energy with wavelengths of approximately 630 to 750 nanometers; any of a group of colors that may vary in lightness and saturation and whose hue resembles that of blood; one of the additive or light primaries; one of the psychological primary hues.
-ree,Wild; fierce; outrageous; overexcited; frenzied; delirious; crazy.
+red,A color.
+ree,Wild; fierce.
 ref,Informal   A referee.
-reg,A hard surface of rock fragments set in a sandy matrix, found in some hot deserts.
-rei,An old Portuguese money of account.
-rem,The amount of ionizing radiation required to produce the same biological effect as one rad of high-penetration x-rays.
-rep,A ribbed or corded fabric of various materials, such as cotton, wool, or silk.
-res,short form of Indian reserve or reservation
-ret,To moisten or soak (flax, for example) in order to soften and separate the fibers by partial rotting.
+reg,A hard surface of rock fragments, in some deserts.
+rei,An old Portuguese money.
+rem,A unit of ionizing radiation.
+rep,A ribbed or corded fabric.
+res,short form of Indian reservation
+ret,To soak in order to soften and separate the fibers.
 rev,A revolution, as of a motor.
-rex,An animal which has a genetic recessive variation that causes the guard hairs to be very short or fully lacking.
+rex,King.
 rez,short form of Indian reservation
-rho,The 17th letter of the Greek alphabet.
-ria,A submergent coastal landform, often known as a drowned river valley
-rib,Anatomy   One of a series of long curved bones occurring in 12 pairs in humans and extending from the spine to or toward the sternum.
-rid,To free from:  He was finally able to rid himself of all financial worries. 
+rho,The 17th Greek letter.
+ria,A submergent coastal landform.
+rib,A long curved bone in the chest.
+rid,To free from.
 rif,To dismiss from employment.
-rig,To provide with a harness or equipment; fit out.
-rim,The usually curved or circular border or edge of an object.
+rig,To provide with a harness or equipment.
+rim,The usually curved border of an object.
 rin,An obsolete or Scotch variant of run.
-rip,To cut, tear apart, or tear away roughly or energetically.
-rob,Law   To take property from (a person) illegally by using or threatening to use violence or force; commit robbery upon.
-roc,A mythical bird of prey having enormous size and strength.
-rod,A thin straight piece or bar of material, such as metal or wood, often having a particular function or use, as:
-roe,The eggs or the egg-laden ovary of a fish.
+rip,To cut or tear apart.
+rob,To take property illegally with violence.
+roc,A mythical bird of prey.
+rod,A thin straight piece or bar of material.
+roe,Fish eggs.
 rom,A Gipsy; a Romany.
 roo,Peace; quietness.
-rot,To undergo decomposition, especially organic decomposition; decay.
-row,A series of objects placed next to each other, usually in a straight line.
-rub,To apply pressure and friction to (a surface).
+rot,To decompose, decay.
+row,A line of objects.
+rub,To apply pressure and friction to a surface.
 rue,To feel regret, remorse, or sorrow for.
 rug,A heavy fabric used to cover a floor.
-rum,An alcoholic liquor distilled from fermented molasses or sugar cane.
+rum,A liquor distilled from fermented molasses or sugar cane.
 run,To move swiftly on foot so that both feet leave the ground during each stride.
 rut,A sunken track or groove made by the passage of vehicles.
-rya,A handwoven Scandinavian rug with a thick pile and usually colorful abstract designs.
-rye,A cereal grass (Secale cereale) widely cultivated for its grain.
+rya,A handwoven Scandinavian rug.
+rye,A grain.
 ryu,A school of Japanese martial arts.
 sab,To sob.
-sac,A pouch or pouchlike structure in a plant or an animal, sometimes filled with fluid.
-sad,Affected or characterized by sorrow or unhappiness.
-sae,A dialectal (Scotch) form of so.
-sag,To sink, droop, or settle from pressure or weight.
+sac,A pouchlike structure in a plant or an animal.
+sad,Characterized by sorrow or unhappiness.
+sae,A Scotch form of so.
+sag,To droop from pressure or weight.
 sal,Salt.
-san,Used as a courtesy title in Japanese-speaking areas as a suffix to the given name, surname, or title of the person being addressed, regardless of age or gender:  Yamamoto san; sensei-san. 
-sap,The watery fluid that circulates through a plant, carrying food and other substances to the various tissues.
-sat,Past tense and past participle of sit.
+san,A sanatorium.
+sap,The fluid that circulates through a plant.
+sat,Past tense of sit.
 sau,Xu, a monetary unit of Vietnam.
-saw,Any of various tools, either hand-operated or power-driven, having a thin metal blade or disk with a sharp, usually toothed edge, used for cutting wood, metal, or other hard materials.
+saw,A tool used for cutting.
 sax,A saxophone.
 say,To utter aloud; pronounce.
-sea,The continuous body of salt water covering most of the earth's surface, especially this body regarded as a geophysical entity distinct from earth and sky.
-sec,Dry. Used of wines, especially champagne.
+sea,The body of salt water covering most of the earth.
+sec,Dry. Used of wines.
 see,To perceive with the eye.
 seg,A man; warrior; hero.
 sei,A sei whale.
-sel,A Middle English form of seel.
+sel,Self.
 sen,A monetary unit of Japan.
 ser,serial
-set,To put in a specified position; place. 
+set,To put in a position; place. 
 sev,An Indian food of deep-fried strands of flour.
-sew,To make, repair, or fasten by stitching, as with a needle and thread or a sewing machine:  sew a dress; sew on a button. 
-sex,The property or quality by which organisms are classified as female or male on the basis of their reproductive organs and functions.
-sez,Third-person singular simple present indicative form of say. Says.
-sha,A very light, thin silken material made in China; silk gauze.
-she,Used to refer to the woman or girl previously mentioned or implied.
-shh,Requesting silence. Asking people to keep silent.
-sho,nonstandard spelling of sure, based on dialectal pronunciation
-shy,Easily startled; timid.
-sib,A blood relation; a relative.
-sic,Thus; so. Used to indicate that a quoted passage, especially one containing an error or unconventional spelling, has been retained in its original form or written intentionally.
-sig,Shortened form of signature, usually when used as a digital signature on emails.
+sew,To make, repair, or fasten by stitching.
+sex,Sexual activity.
+sez,Says.
+sha,A light silken material made in China.
+she,A female person.
+shh,Requesting silence.
+sho,nonstandard spelling of sure.
+shy,Easily startled, timid.
+sib,A relative.
+sic,Thus; so.
+sig,Shortened form of signature.
 sim,A simulation.
-sin,A transgression of a religious or moral law, especially when deliberate.
+sin,A transgression of a religious or moral law.
 sip,To drink in small quantities.
-sir,Used as an honorific before the given name or the full name of baronets and knights.
+sir,Honorific before the name of knights.
 sis,Informal   Sister.
-sit,To rest with the torso vertical and the body supported on the buttocks.
-six,The cardinal number equal to 5 + 1.
-ska,Popular music originating in Jamaica in the 1960s, having elements of rhythm and blues, jazz, and calypso and marked by a fast tempo and a strongly accented offbeat.
-ski,One of a pair of long flat runners of plastic, metal, or wood that curve upward in front and may be attached to a boot for gliding or traveling over snow.
-sky,The expanse of air over any given point on the earth; the upper atmosphere as seen from the earth's surface.
-sly,Clever or cunning, especially in the practice of deceit.
-sob,To weep aloud with convulsive gasping; cry uncontrollably.
-soc,Sociology or social science
-sod,A section of grass-covered surface soil held together by matted roots; turf.
+sit,To rest on the buttocks.
+six,The number equal to 5 + 1.
+ska,Popular music originating in Jamaica in the 1960s.
+ski,A long flat runner used for gliding or traveling over snow.
+sky,The air over any given point on the earth.
+sly,Clever or cunning.
+sob,To weep aloud with convulsive gasping.
+soc,Sociology or social science.
+sod,Grass-covered surface soil.
 soh,An anglicised spelling of so.
-sol,Music   The fifth tone of the diatonic scale in solfeggio.
+sol,Music   The fifth tone of the scale.
 som,A monetary unit of Kyrgyzstan.
 son,One's male child.
-sop,To dip, soak, or drench in a liquid; saturate.
-sos,Plural form of so, a note of the diatonic musical scale.
+sop,To dip, soak, or drench in a liquid.
+sos,Plural form of so, a note of the musical scale.
 sot,A drunkard.
-sou,One of several coins formerly used in France, worth a small amount.
-sow,To scatter (seed) over the ground for growing.
+sou,A coin formerly used in France.
+sow,To scatter seed over the ground for growing.
 sox,A plural of sock.
 soy,The soybean.
 spa,A resort providing therapeutic baths.
-spy,An agent employed by a state to obtain secret information, especially of a military nature, concerning its potential or actual enemies.
-sri,Mister, sir; used as a Hindu title of respect.
+spy,An agent employed to obtain secret information.
+sri,Hindu title of respect.
 sty,An enclosure for swine.
 sub,Informal   Submarine.
-sue,Law   To petition (a court) for redress of grievances or recovery of a right.
+sue,To petition (a court) for recovery of a right.
 suk,Alternative spelling of souq.
-sum,Mathematics   An amount obtained as a result of adding numbers.
-sun,A star that is the basis of the solar system and that sustains life on Earth, being the source of heat and light. It has a mean distance from Earth of about 150 million kilometers (93 million miles) a diameter of approximately 1,390,000 kilometers (864,000 miles) and a mass about 330,000 times that of Earth.
-sup,To eat or drink (something) or engage in eating or drinking by taking small swallows or mouthfuls:  supped the hot soup; supped away daintily. 
+sum,A result of adding numbers.
+sun,A star that is the basis of the solar system.
+sup,To eat or drink by taking small swallows or mouthfuls.
 suq,Variant of souk.
 sus,To suss; figure or check out.
 syn,Describing a torsion angle between 0 and 90 degrees.
-tab,A projection, flap, or short strip attached to an object to facilitate opening, handling, or identification.
+tab,A projection attached to an object.
 tad,Informal   A small boy.
 tae,A Scotch form of to.
-tag,A strip of leather, paper, metal, or plastic attached to something or hung from a wearer's neck to identify, classify, or label:  sale tags on all coats and dresses. 
-taj,A tall conical cap worn by Muslims as a headdress of distinction.
+tag,A label attached to something.
+taj,A cap worn by Muslims as a headdress of distinction.
 tam,A tam-o'-shanter.
-tan,To convert (hide) into leather, as by treating with tannin.
-tao,The essential principle underlying existence; ultimate reality.
-tap,To strike gently with a light blow or blows:  I tapped you on the shoulder to get your attention. 
-tar,A dark, oily, viscous material, consisting mainly of hydrocarbons, produced by the destructive distillation of organic substances such as wood, coal, or peat.
+tan,To convert hide into leather.
+tao,The essential principle underlying existence.
+tap,To strike gently.
+tar,A dark, oily, viscous material.
 tas,Alternative spelling of tass.
-tat,To do tatting or produce (something) by tatting.
-tau,The 19th letter of the Greek alphabet.
-tav,The 23rd letter of the Hebrew alphabet.
-taw,To convert (skin) into white leather by mineral tanning, as with alum and salt.
-tax,A contribution for the support of a government required of persons, groups, or businesses within the domain of that government.
-tea,An eastern Asian evergreen shrub or small tree (Camellia sinensis) having fragrant, nodding, cup-shaped white flowers and glossy leaves.
+tat,To make tatting, a knotted lace.
+tau,The 19th Greek letter.
+tav,The 23rd Hebrew letter.
+taw,To convert skin into white leather by mineral tanning.
+tax,A required contribution for the support of a government.
+tea,A drink.
 tec,A detective.
-ted,Chiefly New England   To strew or spread (newly mown grass, for example) for drying.
+ted,Chiefly New England   To strew or spread for drying.
 tee,The letter t.
-teg,A sheep in its second year or before its first shearing.
+teg,A sheep before its first shearing.
 tel,telegraph
 ten,The cardinal number equal to 9 + 1.
 tes,ti.
 tet,teth, a Hebrew letter.
 tew,A rope or chain for towing a boat.
-the,Used before singular or plural nouns and noun phrases that denote particular, specified persons or things:  the baby; the dress I wore. 
+the,Used to specify or make particular.
 tho,Informal   Though.
-thy,Used as a modifier before a noun.
-tic,A habitual spasmodic muscular movement or contraction, usually of the face or extremities.
-tie,To fasten or secure with or as if with a cord, rope, or strap:  tied the kite to a post; tie up a bundle. 
+thy,Your.
+tic,A habitual spasm.
+tie,To fasten or secure with a rope.
 til,The sesame plant.
-tin,A malleable, silvery metallic element obtained chiefly from cassiterite.
+tin,A metallic element.
 tip,The end of a pointed or projecting object.
-tis,plural of ti, the seventh tone of the diatonic musical scale.
+tis,plural of ti, the seventh tone of the musical scale.
 tit,A titmouse.
 tix,Tickets.
 tiz,Tizzy, a state of nervous confusion.
-tod,Chiefly British   A unit of weight for wool, especially one equivalent to about 28 pounds (12.7 kilograms).
+tod,Chiefly British   A unit of weight for wool, about 28 pounds.
 toe,One of the digits of a vertebrate.
-tog,Clothes:  gardening togs. 
-tom,The male of various animals, especially a male cat or turkey.
-ton,A unit of weight equal to 2,000 pounds (0.907 metric ton or 907.18 kilograms). Also called net ton, short ton.
-too,In addition; also:  He's coming along too. 
-top,The uppermost part, point, surface, or end.
-tor,A high rock or pile of rocks on the top of a hill.
+tog,Clothes.
+tom,The male of various animals.
+ton,A unit of weight equal to 2,000 pounds.
+too,In addition; also.
+top,The uppermost part.
+tor,A high rock on the top of a hill.
 tot,A small child.
-tow,To draw or pull behind by a chain or line:  a tugboat towing a barge.
+tow,To draw or pull behind by a chain or line.
 toy,An object for children to play with.
-try,To make an effort to do or accomplish (something); attempt:  tried to ski. 
+try,To make an effort.
 tsk,Used to express disappointment or sympathy.
-tub,An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing.
+tub,An open, flat-bottomed vessel.
 tug,To pull at vigorously or repeatedly.
-tui,A honeyeater (Prosthemadera novaeseelandiae) of New Zealand, having dark plumage with white feathers on the throat. Also called parson bird.
+tui,A honeyeater bird of New Zealand.
 tum,shortened form of tummy
 tun,A large cask for liquids, especially wine.
 tup,Chiefly British   A male sheep; a ram.
@@ -947,10 +947,10 @@ tux,Informal   A tuxedo.
 twa,Scots   Two.
 two,The cardinal number equal to the sum of 1 + 1.
 tye,a knot
-udo,A perennial Japanese plant (Aralia cordata) having bipinnately compound leaves and young shoots that are cooked and eaten as a vegetable.
+udo,A Japanese plant, eaten as a vegetable.
 ugh,Used to express horror, disgust, or repugnance.
 uke,Informal   A ukulele.
-ulu,A kind of semilunar knife used by Eskimo women.
+ulu,A kind of knife used by Eskimo women.
 umm,Interjection implying hesitation
 ump,An umpire.
 ums,plural of um, to hesitate or pause in speaking.
@@ -959,123 +959,123 @@ uns,plural of un, one.
 upo,upon.
 ups,Plural form of up.
 urb,an urban area.
-urd,In Scand. myth., one of the three Fates, the Norn of the past.
-urn,A vase of varying size and shape, usually having a footed base or pedestal.
-urp,Mississippi River Delta   To vomit.
-use,To put into service or apply for a purpose; employ.
+urd,In Scand. myth., one of the three Fates.
+urn,A vase.
+urp,To vomit.
+use,To put into service for a purpose.
 uta,any of a genus of large lizards.
-ute,A small vehicle based on the same platform as a family car but with a unibody construction and a built-in open tray area for carrying goods; similar but not identical to a pick-up truck.
-uts,plural of ut, the musical tone C in the French solmization system now replaced by do.
+ute,A vehicle similar to a pick-up truck.
+uts,plural of ut, the tone C in the scale now replaced by do.
 vac,Informal   A vacuum cleaner.
-van,An enclosed boxlike motor vehicle having rear or side doors and side panels especially for transporting people.
+van,A vehicle, especially for transporting people.
 var,variable
 vas,Anatomy   A vessel or duct.
-vat,A large vessel, such as a tub, cistern, or barrel, used to hold or store liquids.
+vat,A large vessel used to hold or store liquids.
 vau,Variant of vav.
-vav,The sixth letter of the Hebrew alphabet.
+vav,The sixth Hebrew letter.
 vaw,Alternative form of vav.
 vee,The letter v.
-veg,Informal   To engage in relaxing or passive activities. Often used with out.
+veg,Informal   To relax.
 vet,A veterinarian.
-vex,To annoy, as with petty importunities; bother.
-via,By way of:  went to Pittsburgh via Philadelphia. 
-vid,Eye dialect spelling of with.
-vie,To strive for victory or superiority; contend.
-vig,interest from a loan shark's loan.
-vim,Ebullient vitality and energy.
+vex,To annoy, bother.
+via,By way of.
+vid,A video.
+vie,To strive for victory.
+vig,A vigorish.
+vim,Vitality and energy.
 vin,French wine.
 vis,Force; power.
-voe,A narrow sea inlet, particularly in the Shetland Islands, similar to a fjord.
-vog,Air pollution caused by substances (such as sulphur dioxide) emitted by a volcano.
-vow,An earnest promise to perform a specified act or behave in a certain manner.
+voe,A narrow sea inlet similar to a fjord.
+vog,Air pollution emitted by a volcano.
+vow,An earnest promise.
 vox,A voice.
-vug,A small cavity in a rock or vein, often with a mineral lining of different composition from that of the surrounding rock.
+vug,A small cavity in a rock or vein.
 vum,New England   Used to express surprise.
 wab,a web.
-wad,A small mass of soft material, often folded or rolled, used for padding, stuffing, or packing.
+wad,A small mass of soft material.
 wae,woe
-wag,To move briskly and repeatedly from side to side, to and fro, or up and down.
-wan,Unnaturally pale, as from physical or emotional distress.
+wag,To move from side to side.
+wan,Unnaturally pale.
 wap,A blow or beating; a whap.
-war,A state of open, armed, often prolonged conflict carried on between nations, states, or parties.
-was,First and third person singular past indicative of be.
-wat,A Buddhist temple in Thailand or Cambodia.
+war,A state of conflict between nations.
+was,Past tense of be.
+wat,A Buddhist temple.
 waw,Variant of vav.
-wax,Any of various natural, oily or greasy heat-sensitive substances, consisting of hydrocarbons or esters of fatty acids that are insoluble in water but soluble in nonpolar organic solvents.
-way,A road, path, or highway affording passage from one place to another.
-web,A woven fabric, especially one on a loom or just removed from it.
-wed,To take as a spouse; marry.
+wax,A natural, oily or greasy substance.
+way,A road or path.
+web,A woven fabric.
+wed,To marry.
 wee,Very small; tiny.
-wen,A harmless cyst, especially on the scalp or face, containing the fatty secretion of a sebaceous gland.
-wet,Covered or soaked with a liquid, such as water.
-wha,Eye dialect spelling of what.
-who,What or which person or persons:  Who left? 
-why,For what purpose, reason, or cause; with what intention, justification, or motive:  Why is the door shut? Why do birds sing? 
-wig,An artificial covering of human or synthetic hair worn on the head for personal adornment, as part of a costume, or to conceal baldness.
-win,To achieve victory or finish first in a competition.
+wen,A harmless cyst.
+wet,Covered or soaked with a liquid.
+wha,Who.
+who,Which person. 
+why,For what purpose.
+wig,Artificial hair.
+win,To achieve victory.
 wis,Certainly, surely
-wit,The natural ability to perceive and understand; intelligence.
-wiz,Informal   A person considered exceptionally gifted or skilled.
-woe,Deep distress or misery, as from grief; wretchedness.
-wog,Chiefly British Offensive Slang   Used as a disparaging term for a person of color, especially a person from northern Africa or western or southern Asia.
-wok,A metal pan having a rounded bottom, used especially for frying and steaming in Asian cooking.
+wit,Intelligence.
+wiz,A person considered exceptionally gifted.
+woe,Deep distress or misery.
+wog,British   A disparaging term for a person of color.
+wok,A metal pan having a rounded bottom.
 won,Archaic   To dwell or abide.
 woo,To seek the affection of with intent to romance.
-wop,Offensive Slang   Used as a disparaging term for a person of Italian birth or descent.
-wos,Eye dialect spelling of was.
-wot,First and third person singular present tense of wit.
-wow,Used to express wonder, amazement, or great pleasure.
-wry,Dryly humorous, often with a touch of irony.
+wop,Offensive Slang   A disparaging term for an Italian person.
+wos,Woe.
+wot,Nonstandard spelling of "What".
+wow,Used to express wonder.
+wry,Dryly humorous.
 wud,Mad.
-wuz,Eye dialect spelling of was.
+wuz,Nonstandard spelling of was.
 wye,The letter y.
-wyn,Alternative spelling of wynn.
+wyn,A runic old English letter.
 xed,Marked with an x.
 xis,Plural form of xi.
 yag,A synthetic garnet.
 yah,Yes.
-yak,A wild, shaggy-haired ox of the mountains of central Asia.
-yam,A chiefly tropical vine of the genus Dioscorea, many of which have edible tuberous roots.
+yak,A wild, shaggy-haired mountain ox.
+yam,A chiefly tropical vine with edible tuberous roots.
 yap,To bark sharply or shrilly; yelp.
 yar,Sour; brackish.
-yas,Eye dialect spelling of yes.
+yas,An asian pear.
 yaw,Nautical   To swerve off course momentarily or temporarily.
 yay,Used as an exclamation of pleasure, approval, elation, or victory.
 yea,Yes; aye.
 yeh,yeah; yes.
-yen,A strong desire or inclination; a yearning or craving.
+yen,A yearning or craving.
 yep,Informal   Yes.
 yer,your
-yes,Used to express affirmation, agreement, positive confirmation, or consent.
-yet,At this time; for the present:  isn't ready yet. 
-yew,Any of several poisonous evergreen trees or shrubs of the genus Taxus, having scarlet cup-shaped arils and flat needles that are dark green above and yellowish below.
+yes,Used to express affirmation.
+yet,At this time.
+yew,A type of evergreen tree.
 yez,you.
-yid,Offensive Slang   Used as a disparaging term for a Jew.
-yin,The passive, female cosmic principle in Chinese dualistic philosophy.
+yid,Offensive Slang   A disparaging term for a Jew.
+yin,The passive, female cosmic principle in Chinese philosophy.
 yip,A sharp, high-pitched bark; a yelp.
-yob,Chiefly British Slang   A rowdy, aggressive, or violent young man.
-yod,Alternative form of yodh.
+yob,Chiefly British Slang   A rowdy or violent young man.
+yod,A Hebrew letter.
 yok,A non-Jew; a Gentile.
-yom,Day; -- a Hebrew word used in the names of various Jewish feast days.
+yom,A Hebrew word used in the names of various Jewish feast days.
 yon,Yonder.
-you,Used to refer to the one or ones being addressed.
+you,Used to refer to the one being addressed.
 yow,Used to express alarm, pain, or surprise.
 yuk,An exuberant laugh.
-yum,An expression used to indicate delight in regard to a certain food's flavor
+yum,Indicates delight about a food's flavor
 yup,Informal   Yes.
-zag,One of a series of sharp turns or reversals:  many zigs and zags in the mountain road; the zigs and zags of the stock market. 
-zap,To destroy or kill with a burst of gunfire, flame, or electric current.
+zag,One of a series of sharp turns or reversals.
+zap,To destroy with a burst of gunfire or electric current.
 zas,pizzas.
-zax,A tool similar to a hatchet, used for cutting and dressing roofing slates.
+zax,A tool similar to a hatchet.
 zed,Chiefly British   The letter z.
 zee,The letter z.
 zek,An inmate of a Soviet labor camp.
 zep,A long sandwich.
-zig,One of a series of sharp turns or reversals:  The zigs and zags of foreign policy. 
+zig,One of a series of sharp turns or reversals.
 zin,Zinfandel wine
 zip,A brief sharp hissing sound.
 zit,Slang   A pimple.
 zoa,A plural of zoon.
-zoo,A park or an institution in which living animals are kept and usually exhibited to the public. Also called zoological garden.
+zoo,A park where living animals are kept and exhibited.
 zuz,An ancient Hebrew silver coin.
 zzz,Implies that a particular character is asleep.
