@@ -1,0 +1,319 @@
+lab,A laboratory.
+lac,A resinous insect secretion, used in making shellac.
+lad,A young man; a youth.
+lag,To fail to keep up a pace; straggle.
+lah,La.
+lam,To beat, thrash.
+lap,From the waist to the knees of a seated person.
+lar,A household or ancestral god in ancient Rome
+las,Plural form of la.
+lat,A Latvian monetary unit.
+lav,Lavatory.
+law,A rule of conduct established by authority.
+lax,Lacking in rigor.
+lay,To cause to lie down. 
+lea,A grassland.
+led,Past tense of lead.
+lee,Nautical   The side away from the wind.
+leg,A limb or an appendage of an animal.
+lei,A garland of flowers.
+lek,A monetary unit of Albania.
+les,Short form of lesbian
+let,To give permission or opportunity to; allow.
+leu,A monetary unit of Romania.
+lev,A monetary unit of Bulgaria.
+lex,Law.
+ley,Variant of lea.
+lez,A disparaging term for a lesbian.
+lib,A movement that seeks to achieve equal rights for a group.
+lid,A cover for a hollow receptacle or box.
+lie,To recline. 
+lin,Linn, a waterfall or pool below a waterfall.
+lip,Half of a mouth.
+lis,A controversy; a litigation.
+lit,A past tense and a past participle of light.
+lob,To throw in a high arc. 
+log,A large section of a fallen tree.
+loo,A card game.
+lop,To cut off a part. 
+lor,A variant of lord.
+lot,A large extent, amount, or number. 
+low,Having little relative height.
+lox,Smoked salmon.
+lud,A Middle English form of loud.
+lug,A handle used as a hold or support.
+lum,A chimney.
+lun,A lee.
+luv,deliberate misspelling of love.
+lux,A unit of illumination.
+lye,The liquid obtained by leaching wood ashes.
+mac,British   A mackintosh.
+mad,Angry; resentful.
+mae,A Scotch form of mo.
+mag,Slang   A magazine. 
+mam,Diminutive of mother.
+man,An adult male human.
+map,A representation of a region of the earth.
+mar,To inflict disfiguring damage on.
+mas,milliarcsecond
+mat,A fabric used for wiping one's shoes.
+maw,The mouth of a voracious animal.
+max,The maximum. 
+may,To be allowed to. 
+med,Informal   Medical. 
+meg,Informal   A megabyte.
+meh,Mediocre.
+mel,honey
+mem,The 13th Hebrew letter.
+men,Plural of man.
+met,Past tense of meet.
+mew,A cage for hawks, especially when molting.
+mho,A siemens.
+mib,1024 kibibytes or 2^20 (1,048,576) bytes
+mic,Informal   Variant of mike.
+mid,Middle.
+mig,A type of playing marble.
+mil,1/1000 of an inch, used to specify the diameter of wire.
+mim,affectedly modest or demure.
+mir,A community of peasant farmers in prerevolutionary Russia.
+mis,Wrong; amiss.
+mix,To combine or blend into one mass.
+mmm,Used to show contentment.
+moa,An extinct New Zealand bird.
+mob,A large disorderly crowd or throng.
+moc,A moccasin.
+mod,A style of fashionable dress in 1960s England.
+mog,A cat.
+moi,Used instead of 'me?' to feign surprise.
+mol,Variant of mole.
+mom,Informal   Mother.
+mon,Scots   Man.
+moo,To emit the sound made by a cow.
+mop,A household implement used for washing floors.
+mor,A Celtic adjective, meaning 'great'.
+mos,sing. of mores.
+mot,A witty remark.
+mow,The place in a barn where hay is stored.
+mud,Wet, sticky, soft earth.
+mug,A heavy drinking cup.
+mum,Silent.
+mun,Must.
+mus,Plural of greek letter Mu.
+mut,Mutt.
+mux,A multiplexer.
+myc,A gene that promotes the growth of tumor cells.
+nab,Informal   To seize; arrest.
+nae,Scots   No.
+nag,To annoy by constant scolding or urging.
+nah,No.
+nam,Alternate form of nim, to steal.
+nan,Variant of naan, an Indian bread.
+nap,A brief sleep, often during the day.
+nav,Navigation.
+naw,No.
+nay,No. 
+neb,A beak of a bird.
+nee,Born with the name of.
+neg,Negative
+net,A type of openwork fabric.
+new,Recent. 
+nib,The sharpened point of a quill pen.
+nil,Nothing; zero.
+nim,Archaic   To steal; pilfer.
+nip,To seize and pinch or bite. 
+nit,The egg of a parasitic insect.
+nix,A water sprite of German mythology.
+nob,Slang   The human head.
+nod,To briefly lower the head forward.
+nog,To fill in a space in a wall with bricks.
+noh,a form of classical Japanese music drama
+nom,Nomination.
+noo,now
+nor,And not; or not. 
+nos,Plural form of no.
+not,In no way. 
+now,At the present time. 
+nth,An unspecified ordinal number. 
+nub,A protuberance or knob.
+nug,A piece of marijuana.
+nun,A woman who belongs to a religious order.
+nus,Plural form of nu, a greek letter.
+nut,A type of fruit, such as an acorn or hazelnut.
+oaf,A person regarded as stupid or clumsy.
+oak,A type of tree.
+oar,A pole with a blade at one end, used to row a boat.
+oat,An edible grain.
+oba,A hereditary chief in Benin and Nigeria.
+obe,A subdivision of ancient Laconia.
+obi,A sash worn around the waist of a Japanese kimono.
+oca,An Andean plant, grown for its edible tubers.
+och,an expression of anger or frustration.
+oda,room within a harem
+odd,Strange or peculiar.
+ode,A type of lyric poem.
+ods,Plural form of od.
+oes,Plural form of the name of the letter O.
+off,Opposite of on. 
+oft,Often. 
+ohm,A unit of electrical resistance.
+oho,Used to express surprise.
+ohs,Plural form of oh.
+oik,a member of the lower classes.
+oil,A greasy liquid used for lubrication or fuel.
+oka,A Turkish unit of weight, about 2.75 lb.
+oke,oka, A Turkish unit of weight.
+old,Having lived for a long time.
+ole,A shout of approval.
+oma,grandmother.
+oms,Plural form of om.
+one,A number.
+ono,good-tasting, delicious.
+ons,Plural form of on, where a batsman stands in cricket.
+oof,Money.
+ooh,Used to express pleasure, surprise, or joy.
+oot,anything
+opa,Grandfather.
+ope,open
+ops,Plural form of op.
+opt,To make a choice or decision. 
+ora,An orifice.
+orb,A spherical object.
+orc,A marine mammal.
+ore,A mineral containing valuable metals.
+org,organization
+ors,Plural of or, the heraldric color gold.
+ort,A scrap of food after a meal is completed.
+ose,A narrow ridge of gravel or sand.
+oud,A musical instrument resembling a lute.
+our,Possessive of 'we'. 
+out,In a direction away from the inside.
+ova,Plural of ovum.
+owe,To be indebted to. 
+owl,A type of nocturnal bird of prey.
+own,Of or belonging to oneself or itself.
+owt,Aught, anything
+oxo,Containing oxygen.
+oxy,Containing oxygen.
+pac,A soft shoe to be worn inside a boot.
+pad,To line with soft material.
+pah,Used to express disgust or irritation.
+pak,deliberate misspelling of pack
+pal,A friend; a chum.
+pam,The highest trump in certain variations of loo.
+pan,A shallow, wide, open container, used cooking.
+pap,Midland U.S.   A nipple.
+par,An amount considered to be average.
+pas,A step or dance.
+pat,To tap gently with the open hand.
+paw,The foot of an animal.
+pax,A ceremonial embrace to signify Christian love and unity.
+pay,To give money in return for goods or services.
+pea,The edible seed of an annual herb.
+pec,Slang  A pectoral muscle.
+ped,A pedestrian.
+pee,The letter p.
+peg,A small cylindrical or tapered pin.
+peh,Pe, a Hebrew letter.
+pen,An instrument for writing or drawing.
+pep,Energy and high spirits.
+per,To, for, or by each; for every.
+pes,A foot or footlike part.
+pet,An animal kept for companionship.
+pew,One of the long, fixed, backed benches in a church.
+phi,The 21st Greek letter.
+pho,A Vietnamese soup.
+pht,Used to signify mild annoyance or disagreement
+pia,A membrane of the brain.
+pic,Slang   A photograph.
+pie,A baked food with a pastry crust.
+pig,A hoofed mammal with a flat snout.
+pin,A straight, stiff piece of wire with a a sharp point.
+pip,The small seed of a fruit.
+pis,Plural form of pi.
+pit,A hole in the ground.
+piu,More, used as a musical direction.
+pix,A plural of pic.
+ply,To join together, as by molding or twisting.
+pod,Botany   A fruit of a leguminous plant such as the pea.
+poh,Expressing contempt or disgust; bah.
+poi,A Hawaiian food made from taro.
+pol,Informal   A politician.
+pom,A vodka-pomegranate drink.
+poo,To defecate.
+pop,To make a short, sharp, explosive sound.
+pos,positive
+pot,A domestic container made of pottery, metal, or glass.
+pow,The sound of a violent impact, such as a punch.
+pox,A disease such as chickenpox or smallpox.
+pro,An argument in favor of something.
+pry,To look or inquire closely.
+psi,The 23rd letter of the Greek alphabet.
+pst,Alternative form of psst.
+pub,A place where people drink.
+pud,pudding
+pug,A small sturdy dog.
+pul,A coin of Afghanistan.
+pun,A play on words.
+pup,A young dog; a puppy.
+pur,Dated form of purr.
+pus,A fluid formed in infected tissue.
+put,To place in a specified location; set.
+pya,A copper coin of Myanmar (Burma).
+pye,Archaic spelling of pie.
+pyx,A container in which wafers for the Eucharist are kept.
+qat,Alternative form of khat.
+qis,Plural form of qi.
+qua,In the capacity or character of; as.
+rad,An obsolete unit of energy absorbed from ionizing radiation.
+rag,A scrap of cloth.
+rah,An exclamation of approval or encouragement.
+rai,A form of popular Algerian music.
+raj,Rule, especially British over India (1757-1947).
+ram,A male sheep.
+ran,Past tense of run.
+rap,To hit sharply and swiftly.
+ras,An Ethiopian king or prince.
+rat,A rodent resembling a mouse but larger.
+raw,Uncooked.
+rax,Barracks
+ray,A thin beam of light or other radiant energy.
+reb,A Confederate soldier.
+rec,Informal   Recreation.
+red,A color.
+ree,Wild; fierce.
+ref,Informal   A referee.
+reg,A hard surface of rock fragments, in some deserts.
+rei,An old Portuguese money.
+rem,A unit of ionizing radiation.
+rep,A ribbed or corded fabric.
+res,short form of Indian reservation
+ret,To soak in order to soften and separate the fibers.
+rev,A revolution, as of a motor.
+rex,King.
+rez,short form of Indian reservation
+rho,The 17th Greek letter.
+ria,A submergent coastal landform.
+rib,A long curved bone in the chest.
+rid,To free from.
+rif,To dismiss from employment.
+rig,To provide with a harness or equipment.
+rim,The usually curved border of an object.
+rin,An obsolete or Scotch variant of run.
+rip,To cut or tear apart.
+rob,To take property illegally with violence.
+roc,A mythical bird of prey.
+rod,A thin straight piece or bar of material.
+roe,Fish eggs.
+rom,A Gipsy; a Romany.
+roo,Peace, quietness.
+rot,To decompose, decay.
+row,A line of objects.
+rub,To apply pressure and friction to a surface.
+rue,To feel regret, remorse, or sorrow for.
+rug,A heavy fabric used to cover a floor.
+rum,A liquor distilled from fermented molasses.
+run,To move swiftly on foot.
+rut,A sunken track made by the passage of vehicles.
+rya,A handwoven Scandinavian rug.
+rye,A grain.
+ryu,A school of Japanese martial arts.

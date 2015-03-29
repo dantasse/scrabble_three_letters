@@ -8,7 +8,63 @@ TextLayer *word_layer;
 TextLayer *defn_layer;
 
 char** words; // array of words.
-int NUM_WORDS_IN_LIST = 105;
+int NUM_DEFNS_FILES = 4;
+int current_defn_file = 0;
+int words_per_file[] = {271, 273, 319, 266};
+int TOTAL_NUM_WORDS = 1129;
+uint32_t RESOURCE_IDS[] = {RESOURCE_ID_DEFNS_0, RESOURCE_ID_DEFNS_1};
+
+void free_words() {
+  for(int i = 0; i < words_per_file[current_defn_file]; i++) {
+    free(words[i]);
+  }
+  free(words);
+}
+
+
+// Given a buffer with a whole file string in it, break it into an array
+// of strings and assign that to |words|.
+char** get_words(char* buffer) {
+  const char delim[2] = "\n";
+  words = malloc(sizeof(char*) * words_per_file[current_defn_file]);
+  
+  int n_words = 0;
+  char* token = strtok(buffer, delim);
+  while(token != NULL) {
+    n_words++;
+    words[n_words-1] = malloc(sizeof(char)*strlen(token));    
+    strcpy(words[n_words-1], token);
+    token = strtok(NULL, delim);
+  }
+
+  return words;
+}
+
+// Malloc a buffer and put words into it from a file. Return the buffer.
+char** load_defns_file(int file_num) {
+  APP_LOG(APP_LOG_LEVEL_DEBUG, "Loading defns file %d", file_num);
+  APP_LOG(APP_LOG_LEVEL_DEBUG, "free heap %d, used heap %d", (int)heap_bytes_free(), (int) heap_bytes_used());
+  current_defn_file = file_num;
+  ResHandle rh = resource_get_handle(RESOURCE_IDS[file_num]);
+  size_t res_size = resource_size(rh) + 1;
+  uint8_t *all_text_buffer_uint = (uint8_t*) malloc(res_size);
+  resource_load(rh, all_text_buffer_uint, res_size);
+  char* all_text_buffer = (char*) all_text_buffer_uint;
+  char** all_words = get_words(all_text_buffer);
+  free(all_text_buffer_uint);
+  return all_words;
+}
+
+// Returns the number of the words file that word_num is in.
+int get_which_file(int word_num) {
+  for(int i = 0; i < NUM_DEFNS_FILES; i++) {
+    word_num -= words_per_file[i];
+    if(word_num < 0) {
+      return i;
+    }
+  }
+  return NUM_DEFNS_FILES - 1;
+}
 
 static void update_time() {
   time_t temp = time(NULL);
@@ -18,52 +74,42 @@ static void update_time() {
   text_layer_set_text(time_layer, current_time);
 
   char* current_date = "00/00/00";
-  // ugh there's no strftime thing for "month without leading zero",
-  // rolling my own...
+  // ugh there's no strftime shortcut for "month w/o leading 0", roll my own...
   snprintf(current_date, 9 /*maxsize*/, "%d/%d/%d", tick_time->tm_mon +1,
            tick_time->tm_mday, tick_time->tm_year % 100);
   
   text_layer_set_text(date_layer, current_date);
   
   char* current_word = "ZZZ";
-  int word_num = (tick_time->tm_hour * 60 + tick_time->tm_min) % NUM_WORDS_IN_LIST;
+  int word_num = (tick_time->tm_hour * 60 + tick_time->tm_min) % TOTAL_NUM_WORDS;
+  int which_file = get_which_file(word_num);
+  if(which_file != current_defn_file) {
+    free_words();
+    words = load_defns_file(which_file);
+  }
+
+  // OK, now if word_num is 400, don't want to look up words[400] b/c there
+  // are still only 200-some words in words[].
+  for(int i = 0; i < current_defn_file; i++) {
+    word_num -= words_per_file[i];
+  }
+
   strncpy(current_word, words[word_num], 3);
   text_layer_set_text(word_layer, current_word);
-  text_layer_set_text(defn_layer, words[word_num] + 5); // skip 5 char ahead
+  text_layer_set_text(defn_layer, words[word_num] + 4); // skip 4 char ahead
 }
 
 static void tick_handler(struct tm *tick_time, TimeUnits units_changed) {
   update_time();
 }
 
-char** get_words(char* buffer) {
-  const char delim[2] = "\n";
-  words = malloc(sizeof(char*) * NUM_WORDS_IN_LIST);
-  // TODO if we want to make this scale to beyond just these 105 words,
-  // maybe keep reallocing this instead of just mallocing it once? Meh.
-  
-  int n_words = 0;
-  char* token = strtok(buffer, delim);
-  while(token != NULL) {
-    n_words++;
-    words[n_words-1] = malloc(sizeof(char)*strlen(token));
-    strcpy(words[n_words-1], token);
-    token = strtok(NULL, delim);
-  }
-  return words;
-}
 
 void handle_init(void) {
   my_window = window_create();
   
-  // Load the text from the twoletters.txt file.
-  ResHandle rh = resource_get_handle(RESOURCE_ID_THREE_LETTERS);
-  size_t res_size = resource_size(rh) + 1;
-  uint8_t *all_text_buffer_uint = (uint8_t*) malloc(res_size);
-  resource_load(rh, all_text_buffer_uint, res_size);
-  char* all_text_buffer = (char*) all_text_buffer_uint;
-  words = get_words(all_text_buffer);
-
+  // Load the text from the defns0.txt file to start.
+  words = load_defns_file(0);
+  
   // Register with TickTimerService
   tick_timer_service_subscribe(MINUTE_UNIT, tick_handler);
 
@@ -105,10 +151,7 @@ void handle_deinit(void) {
   text_layer_destroy(time_layer);
   text_layer_destroy(word_layer);
   text_layer_destroy(defn_layer);
-  for(int i = 0; i < NUM_WORDS_IN_LIST; i++) {
-    free(words[i]);
-  }
-  free(words);
+  free_words();
   window_destroy(my_window);
 }
 

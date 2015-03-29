@@ -9,6 +9,26 @@
     "resources": {
         "media": [
             {
+                "file": "data/defns3.txt",
+                "name": "DEFNS_3",
+                "type": "raw"
+            },
+            {
+                "file": "data/defns2.txt",
+                "name": "DEFNS_2",
+                "type": "raw"
+            },
+            {
+                "file": "data/defns1.txt",
+                "name": "DEFNS_1",
+                "type": "raw"
+            },
+            {
+                "file": "data/defns0.txt",
+                "name": "DEFNS_0",
+                "type": "raw"
+            },
+            {
                 "file": "data/defns.txt",
                 "name": "THREE_LETTERS",
                 "type": "raw"
@@ -21,6 +41,6 @@
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
