@@ -1,29 +1,29 @@
-fab,Informal   Fabrication:  building a shed of metal fab. 
+fab,Informal   Fabrication.
 fad,A brief fashion; a craze.
-fag,A British student who has to perform menial tasks for an older student.
+fag,To make weary by hard work.
 fah,An anglicised spelling of fa.
-fan,A device for creating a current of air or a breeze.
-far,To, from, or at considerable distance. 
+fan,A device for creating a breeze.
+far,At considerable distance. 
 fas,Plural form of fa.
-fat,The ester of glycerol and one, two, or three fatty acids.
+fat,Having an abundance of flesh.
 fax,A fax machine.
 fay,To join or fit closely or tightly.
 fed,Past tense and past participle of feed.
 fee,A fixed sum charged. 
 feh,An expression of disgust.
 fem,An effeminate or homosexual man.
-fen,Low, flat, swampy land; a bog or marsh.
+fen,Low, flat, swampy land.
 fer,Eye dialect spelling of for.
 fes,Plural form of fe, a Hebrew letter.
 fet,To fetch.
 feu,Land held in feudal tenure.
 few,A small number. 
-fey,Having a fairylike aspect or quality.
-fez,A man's felt cap in the shape of a flat-topped cone.
-fib,An insignificant or childish lie.
-fid,Nautical   A square bar used as a support for a topmast.
-fie,Used to express distaste or disapproval.
-fig,A type of tree cultivated for its edible multiple fruit.
+fey,Having a fairylike quality.
+fez,A man's cap in the shape of a flat-topped cone.
+fib,An insignificant lie.
+fid,A square bar used as a support for a topmast.
+fie,Used to express distaste.
+fig,A type of tree cultivated for its fruit.
 fil,A Nordic dairy product, similar to yoghurt.
 fin,What a fish uses to swim.
 fir,A type of evergreen tree.
@@ -34,7 +34,7 @@ flu,Influenza.
 fly,To engage in flight
 fob,A small pocket used to hold a watch.
 foe,A personal enemy.
-fog,Condensed water vapor close to the ground and limiting visibility.
+fog,Condensed water vapor close to the ground.
 foh,An exclamation of contempt.
 fon,A fool or idiot.
 foo,Represents an unspecified entity.
@@ -49,41 +49,41 @@ fub,A plump young person.
 fud,Alternative capitalization of FUD
 fug,A heavy, stale atmosphere.
 fun,A source of enjoyment.
-fur,The thick coat of soft hair covering the skin of a mammal.
+fur,The thick coat of hair covering the skin of a mammal.
 gab,To talk idly or incessantly.
 gad,To move about restlessly.
 gae,to go.
-gag,Something forced into the mouth to prevent speaking.
+gag,To stop up the mouth.
 gal,A girl.
 gam,A social visit, especially between whalers or seafarers.
 gan,Simple past of gin.
 gap,An opening in a structure or surface. 
 gar,A type of fish.
 gas,A state of matter.
-gat,A narrow passage extending inland from a shore; a channel.
-gay,Having a sexual orientation to persons of the same sex.
+gat,A pistol.
+gay,Merry or homosexual.
 ged,The European pike.
 gee,The letter g.
 gel,A colloid such as a jelly.
-gem,A mineral that has been cut for use as an ornament.
+gem,A precious stone.
 gen,gender
 get,To receive.
 gey,Very.
 ghi,Ghee.
-gib,A piece of wood or metal to hold parts of a machine in place.
-gid,A disease of sheep resulting in a staggering gait.
+gib,To fasten with a wedge of wood or metal.
+gid,A disease of sheep.
 gie,Scots   Variant of give.
 gif,GIF
-gig,A light, two-wheeled carriage drawn by one horse.
+gig,To catch fish with a pronged spear.
 gin,A type of alcoholic beverage.
 gip,Slang   Gyp.
 gis,Jizz.
-git,Chiefly U.S.   Variant of get.
-gnu,A type of African antelope, also called wildebeest.
+git,To get.
+gnu,A large antelope, also called wildebeest.
 goa,A Tibetan gazelle.
 gob,A small mass or lump.
-god,The principal object of faith and worship in monotheistic religions.
-goo,Informal   A sticky wet viscous substance.
+god,A supernatural being.
+goo,A sticky or viscous substance.
 gor,An unfledged bird.
 gos,A Middle English form of goose.
 got,Past tense and a past participle of get.
@@ -92,7 +92,7 @@ goy,Offensive   Used as a disparaging term for one who is not a Jew.
 grr,A growl of anger or disappointment.
 gul,A stylized octagonal motif in Oriental rugs.
 gum,A viscous substance exuded by certain plants and trees.
-gun,A weapon from which a projectile is fired at high velocity.
+gun,A portable firearm.
 gut,The intestine or stomach.
 guv,A form of address, an informal form of sir.
 guy,A rope used to steady, guide, or secure something.
@@ -108,7 +108,7 @@ hao,A monetary unit of Vietnam.
 hap,Fortune; chance.
 has,Form of have.
 hat,A covering for the head.
-haw,An utterance used by a speaker who is fumbling for words.
+haw,To turn left.
 hay,Grass cut and dried for fodder.
 heh,Weak amusement or boredom.
 hem,An edge or border on a piece of cloth.
@@ -116,7 +116,7 @@ hen,A female chicken.
 hep,Slang   Variant of hip.
 her,She. 
 hes,Plural form of he.
-het,Heterosexual.
+het,Heth, a hebrew letter.
 hew,To make with an ax.
 hex,A curse.
 hey,Used to attract attention.
@@ -124,13 +124,13 @@ hic,The sound of a hiccup.
 hid,Past tense of hide.
 hie,To go quickly.
 him,He. 
-hin,A unit of liquid measure used by the ancient Hebrews, about 5L.
+hin,A Hebrew unit of liquid measure, about 5L.
 hip,The pelvis from the waist to the thigh.
 his,possessive of "he"
 hit,To strike. 
 hmm,Indicating thinking.
 hob,A shelf at the back of a fireplace for keeping food warm.
-hod,A trough carried over the shoulder for transporting loads.
+hod,A portable trough.
 hoe,A gardening tool.
 hog,A pig.
 hom,A sacred plant of the ancient Persians.
@@ -144,14 +144,14 @@ hoy,A small sloop-rigged coasting ship.
 hub,The center part of a wheel.
 hue,Color.
 hug,To embrace.
-huh,Used to express interrogation or surprise.
+huh,Used to express surprise.
 hum,To emit a continuous low droning sound.
 hun,Affectionate abbreviation of honey.
 hup,The first beat of a 4/4 military cadence.
 hut,A shack.
 hyp,hypnotism; hypnotist
 ice,Water frozen solid.
-ich,A contagious disease of tropical fishes.
+ich,A disease of tropical fishes.
 ick,An exclamation of disgust
 icy,Containing or covered with ice. 
 ids,Plural form of id.
@@ -167,7 +167,7 @@ ins,Plural form of in.
 ion,An atom with a net electric charge.
 ire,Anger; wrath.
 irk,To be irritating to.
-ism,Informal A distinctive doctrine, system, or theory.
+ism,A distinctive doctrine or theory.
 its,Possessive of "it". 
 ivy,A climbing or trailing evergreen plant.
 jab,To poke or thrust abruptly.
@@ -189,7 +189,7 @@ jog,To move by shoving, bumping, or jerking.
 jot,The smallest bit; iota.
 jow,A former unit of length in India, about 1/4"
 joy,Intense happiness.
-jug,A vessel with a small mouth, a handle, and usually a stopper or cap.
+jug,A vessel with a small mouth, a handle, and usually a stopper.
 jun,A monetary unit of North Korea, one hundredth of a won.
 jus,The juices that are a by-product of roasting meat
 jut,To extend, project.

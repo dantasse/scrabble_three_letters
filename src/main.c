@@ -10,9 +10,9 @@ TextLayer *defn_layer;
 char** words; // array of words.
 int NUM_DEFNS_FILES = 4;
 int current_defn_file = 0;
-int words_per_file[] = {271, 273, 319, 266};
+int words_per_file[] = {271, 273, 302, 283};
 int TOTAL_NUM_WORDS = 1129;
-uint32_t RESOURCE_IDS[] = {RESOURCE_ID_DEFNS_0, RESOURCE_ID_DEFNS_1};
+uint32_t RESOURCE_IDS[] = {RESOURCE_ID_DEFNS_0, RESOURCE_ID_DEFNS_1, RESOURCE_ID_DEFNS_2, RESOURCE_ID_DEFNS_3};
 
 void free_words() {
   for(int i = 0; i < words_per_file[current_defn_file]; i++) {
@@ -32,18 +32,18 @@ char** get_words(char* buffer) {
   char* token = strtok(buffer, delim);
   while(token != NULL) {
     n_words++;
+    //APP_LOG(APP_LOG_LEVEL_DEBUG, "n_words=%d, free heap %d, used heap %d", n_words, (int)heap_bytes_free(), (int) heap_bytes_used());
     words[n_words-1] = malloc(sizeof(char)*strlen(token));    
     strcpy(words[n_words-1], token);
     token = strtok(NULL, delim);
   }
+  //APP_LOG(APP_LOG_LEVEL_DEBUG, "loaded this many words: %d", n_words);
 
   return words;
 }
 
 // Malloc a buffer and put words into it from a file. Return the buffer.
 char** load_defns_file(int file_num) {
-  APP_LOG(APP_LOG_LEVEL_DEBUG, "Loading defns file %d", file_num);
-  APP_LOG(APP_LOG_LEVEL_DEBUG, "free heap %d, used heap %d", (int)heap_bytes_free(), (int) heap_bytes_used());
   current_defn_file = file_num;
   ResHandle rh = resource_get_handle(RESOURCE_IDS[file_num]);
   size_t res_size = resource_size(rh) + 1;
@@ -82,7 +82,9 @@ static void update_time() {
   
   char* current_word = "ZZZ";
   int word_num = (tick_time->tm_hour * 60 + tick_time->tm_min) % TOTAL_NUM_WORDS;
+  
   int which_file = get_which_file(word_num);
+  //APP_LOG(APP_LOG_LEVEL_DEBUG, "word num %d, in file num %d, current file is %d", word_num, which_file, current_defn_file);
   if(which_file != current_defn_file) {
     free_words();
     words = load_defns_file(which_file);
@@ -90,6 +92,7 @@ static void update_time() {
 
   // OK, now if word_num is 400, don't want to look up words[400] b/c there
   // are still only 200-some words in words[].
+  word_num %= TOTAL_NUM_WORDS;
   for(int i = 0; i < current_defn_file; i++) {
     word_num -= words_per_file[i];
   }

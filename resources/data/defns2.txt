@@ -60,8 +60,8 @@ mat,A fabric used for wiping one's shoes.
 maw,The mouth of a voracious animal.
 max,The maximum. 
 may,To be allowed to. 
-med,Informal   Medical. 
-meg,Informal   A megabyte.
+med,Medication. 
+meg,Megabyte.
 meh,Mediocre.
 mel,honey
 mem,The 13th Hebrew letter.
@@ -73,9 +73,9 @@ mib,1024 kibibytes or 2^20 (1,048,576) bytes
 mic,Informal   Variant of mike.
 mid,Middle.
 mig,A type of playing marble.
-mil,1/1000 of an inch, used to specify the diameter of wire.
+mil,1/1000 of an inch.
 mim,affectedly modest or demure.
-mir,A community of peasant farmers in prerevolutionary Russia.
+mir,A Russian peasant commune.
 mis,Wrong; amiss.
 mix,To combine or blend into one mass.
 mmm,Used to show contentment.
@@ -139,9 +139,9 @@ nug,A piece of marijuana.
 nun,A woman who belongs to a religious order.
 nus,Plural form of nu, a greek letter.
 nut,A type of fruit, such as an acorn or hazelnut.
-oaf,A person regarded as stupid or clumsy.
+oaf,A clumsy, stupide person.
 oak,A type of tree.
-oar,A pole with a blade at one end, used to row a boat.
+oar,A long, broad-bladed pole, to row a boat.
 oat,An edible grain.
 oba,A hereditary chief in Benin and Nigeria.
 obe,A subdivision of ancient Laconia.
@@ -199,7 +199,7 @@ pad,To line with soft material.
 pah,Used to express disgust or irritation.
 pak,deliberate misspelling of pack
 pal,A friend; a chum.
-pam,The highest trump in certain variations of loo.
+pam,The jack of clubs in some card games.
 pan,A shallow container used in cooking.
 pap,Midland U.S.   A nipple.
 par,An amount considered to be average.
@@ -227,22 +227,22 @@ pia,A membrane of the brain.
 pic,Slang   A photograph.
 pie,A baked food with a pastry crust.
 pig,A hoofed mammal with a flat snout.
-pin,A straight, stiff piece of wire with a a sharp point.
+pin,A straight, stiff, pointed piece of metal.
 pip,The small seed of a fruit.
 pis,Plural form of pi.
 pit,A hole in the ground.
-piu,More, used as a musical direction.
+piu,More (musical direction).
 pix,A plural of pic.
 ply,To join together, as by molding or twisting.
-pod,Botany   A fruit of a leguminous plant such as the pea.
+pod,To produce seed vessels.
 poh,Expressing contempt or disgust; bah.
 poi,A Hawaiian food made from taro.
 pol,Informal   A politician.
 pom,A vodka-pomegranate drink.
 poo,To defecate.
-pop,To make a short, sharp, explosive sound.
+pop,To make a sharp, explosive sound.
 pos,positive
-pot,A domestic container made of pottery, metal, or glass.
+pot,A round, fairly deep container.
 pow,The sound of a violent impact, such as a punch.
 pox,A disease such as chickenpox or smallpox.
 pro,An argument in favor of something.
@@ -264,16 +264,16 @@ pyx,A container in which wafers for the Eucharist are kept.
 qat,Khat.
 qis,Plural form of qi.
 qua,In the capacity or character of; as.
-rad,An obsolete unit of energy absorbed from ionizing radiation.
+rad,Appealing or good.
 rag,A scrap of cloth.
-rah,An exclamation of approval or encouragement.
+rah,An exclamation of encouragement.
 rai,A form of popular Algerian music.
-raj,Rule, especially British over India (1757-1947).
+raj,Dominion, sovereignty.
 ram,A male sheep.
 ran,Past tense of run.
-rap,To hit sharply and swiftly.
+rap,To hit sharply.
 ras,An Ethiopian king or prince.
-rat,A rodent resembling a mouse but larger.
+rat,A long-tailed rodent.
 raw,Uncooked.
 rax,Barracks
 ray,A thin beam of light or other radiant energy.
@@ -282,10 +282,10 @@ rec,Informal   Recreation.
 red,A color.
 ree,Wild; fierce.
 ref,Informal   A referee.
-reg,A hard surface of rock fragments, in some deserts.
+reg,A regulation.
 rei,An old Portuguese money.
 rem,A unit of ionizing radiation.
-rep,A ribbed or corded fabric.
+rep,To represent.
 res,short form of Indian reservation
 ret,To soak in order to soften and separate the fibers.
 rev,A revolution, as of a motor.
@@ -300,20 +300,3 @@ rig,To provide with a harness or equipment.
 rim,The usually curved border of an object.
 rin,An obsolete or Scotch variant of run.
 rip,To cut or tear apart.
-rob,To take property illegally with violence.
-roc,A mythical bird of prey.
-rod,A thin straight piece or bar of material.
-roe,Fish eggs.
-rom,A Gipsy; a Romany.
-roo,Peace, quietness.
-rot,To decompose, decay.
-row,A line of objects.
-rub,To apply pressure and friction to a surface.
-rue,To feel regret, remorse, or sorrow for.
-rug,A heavy fabric used to cover a floor.
-rum,A liquor distilled from fermented molasses.
-run,To move swiftly on foot.
-rut,A sunken track made by the passage of vehicles.
-rya,A handwoven Scandinavian rug.
-rye,A grain.
-ryu,A school of Japanese martial arts.

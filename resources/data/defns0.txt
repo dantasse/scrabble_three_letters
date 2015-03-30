@@ -31,7 +31,7 @@ aji,A type of chili pepper.
 ala,A wing or winglike structure or part.
 alb,A robe worn by a priest at Mass.
 ale,A type of beer.
-all,The entire or total amount.
+all,The total amount.
 alp,A high mountain.
 als,Also.
 alt,A high-pitched musical note.
@@ -56,7 +56,7 @@ arf,a dog's bark.
 ark,Bible   The chest containing the Ten Commandments.
 arm,An upper limb of the human body.
 ars,Plural form of ar.
-art,Aesthetically pleasing and meaningful arrangement of elements.
+art,Pleasing and meaningful arrangement of elements.
 ash,The powder left when something is burned.
 ask,To put a question to. 
 asp,a type of snake.
@@ -76,8 +76,8 @@ aye,An affirmative vote.
 ays,ayes, affirmative votes.
 azo,Containing a nitrogen group, especially N=N.
 baa,To make a bleating sound, as a sheep or goat.
-bad,Not achieving an adequate standard.
-bag,A container for carrying or storing items.
+bad,Not good.
+bag,A container for carrying items.
 bah,Used to express impatient rejection or contempt.
 bal,a balmoral.
 bam,Representing a loud noise or heavy impact.
@@ -92,13 +92,13 @@ bee,A winged, hairy-bodied, usually stinging insect.
 beg,To ask for as charity.
 bel,Ten decibels.
 ben,The inner room or parlor of a house with two rooms.
-bes,Third-person singular simple present indicative form of be.
+bes,Third-person singular form of be.
 bet,A wager.
 bey,A provincial governor in the Ottoman Empire.
-bib,A piece of cloth worn to protect the clothing while eating.
+bib,Worn to protect the clothing while eating.
 bid,To issue a command to.
 big,Large.
-bin,A container or enclosed space for storage.
+bin,A storage container.
 bio,Informal   A biography.
 bis,Music   Again; twice.
 bit,A small portion, degree, or amount. 
@@ -106,8 +106,8 @@ biz,Informal   Business.
 boa,A type of snake that suffocates its prey.
 bob,To hit lightly and quickly; tap.
 bod,Slang   The physical human body.
-bog,A swampy area mostly of sphagnum moss and peat.
-boo,A sound uttered to show contempt, scorn, or disapproval.
+bog,A swampy area.
+boo,Indicates contempt or disapproval.
 bop,To hit or strike.
 bos,A genus containing the oxen, or cattle.
 bot,The parasitic larva of a botfly.
@@ -123,7 +123,7 @@ bug,A true bug.
 bum,A tramp; a vagrant.
 bun,A small bread roll.
 bur,A prickly husk surrounding the seeds of some plants.
-bus,A long motor vehicle for carrying passengers.
+bus,A passenger motor vehicle.
 but,On the contrary. 
 buy,To purchase.
 bye,A secondary matter.
@@ -134,11 +134,11 @@ caf,cafeteria.
 cal,calorie
 cam,An eccentric wheel mounted on a rotating shaft.
 can,Used to indicate ability. 
-cap,A usually soft and close-fitting head covering.
+cap,A head covering.
 car,An automobile.
 cat,A kitty.
-caw,The sound that is characteristic of a crow or similar bird.
-cay,A small, low island composed largely of coral or sand.
+caw,The sound that is characteristic of a crow.
+cay,A small, low island.
 cee,The letter c.
 cel,A piece of celluloid with a frame of an animated film.
 cep,Cepe, a large mushroom.
@@ -147,17 +147,17 @@ cig,cigarette
 cis,Having certain atoms on the same side of the molecule.
 cob,A corncob. 
 cod,A type of fish.
-cog,One of a series of teeth, as on the rim of a wheel or gear.
+cog,One of a series of teeth, as on a gear.
 col,A pass between two mountain peaks.
 con,In opposition or disagreement. 
 coo,To make the sound of a dove.
 cop,Informal   A police officer.
-cor,A Hebrew measure of capacity; a core or homer.
+cor,A Hebrew measure of capacity.
 cos,A variety of lettuce.
 cot,A narrow bed.
 cow,The mature female cattle.
 cox,A coxswain.
-coy,Tending to avoid people and social situations; reserved.
+coy,Tending to avoid people and social situations.
 coz,Informal   A cousin.
 cru,A vineyard or wine-producing region in France.
 cry,To sob or weep.
@@ -166,15 +166,15 @@ cud,A portion of food to be chewed again by a cow.
 cue,A rod used to strike the cue ball in billiards.
 cum,Together with. 
 cup,A small open container used for drinking.
-cur,A dog considered to be inferior or undesirable.
+cur,A dog considered to be undesirable.
 cut,To penetrate with a sharp edge.
 cuz,because
-cwm,A cirque, a deep, steep-walled basin on a mountain.
+cwm,A cirque, a steep-walled basin on a mountain.
 dab,To apply with short poking strokes.
 dad,Informal   A father.
 dag,A lock of matted or dung-coated wool.
 dah,A dash in radio and telegraph code.
-dak,A post system by means of transport relays of horses.
+dak,A post system by means of relays of horses.
 dal,Variant of dahl.
 dam,A barrier to control the flow of water.
 dan,A level of black belt in martial arts.
@@ -197,16 +197,16 @@ did,Past tense of do.
 die,To cease living.
 dif,difference
 dig,To remove earth or sand, as with a shovel.
-dim,Lacking in brightness. 
-din,A jumble of loud, usually discordant sounds.
+dim,Not bright. 
+din,A jumble of loud, discordant sounds.
 dip,To plunge briefly into a liquid.
 dis,To show disrespect to.
 dit,The dot in radio and telegraph code.
-doc,A physician, dentist, or veterinarian.
-doe,The female of a deer or related animal.
+doc,A doctor.
+doe,A female deer.
 dog,A puppy.
 doh,An anglicised spelling of do, a tone of the scale.
-dol,The unit of measurement for pain
+dol,The unit of measurement for pain.
 dom,A dominator (in S&M), especially a male one.
 don,Courtesy title for a man in a Spanish-speaking area.
 dor,A large European dung beetle.
@@ -214,8 +214,8 @@ dos,Plural form of do.
 dot,A tiny round mark; a spot.
 dow,To be worth.
 dry,Free from liquid or moisture. 
-dub,To tap lightly on the shoulder to confer knighthood.
-dud,A bomb, shell, or explosive round that fails to detonate.
+dub,To tap on the shoulder to confer knighthood.
+dud,A bomb that fails to detonate.
 due,Payable immediately or on demand.
 dug,An udder, breast, or teat of a female animal.
 duh,Used to express disdain for something deemed stupid or obvious.
@@ -223,8 +223,8 @@ dui,Plural form of duo.
 dum,Syllable used when humming a tune.
 dun,To ask a debtor for payment. 
 duo,Music   A duet.
-dup,to open (a door, gate etc.)
-dye,A substance used to color materials..
+dup,to open (a door etc.)
+dye,A substance used to color materials.
 ear,The organ of hearing.
 eat,To take into the body by the mouth for digestion.
 eau,Water.
@@ -232,15 +232,15 @@ ebb,Ebb tide.
 eco,Environmentally friendly or sensitive.
 ecu,The European Currency Unit, a pre-euro currency.
 edh,eth; An old English letter.
-eds,a system to detect plastic explosives in luggage using X-rays
+eds,an X-ray system to detect plastic explosives in luggage.
 eek,Representing a scream or shriek.
 eel,A long, snakelike, scaleless marine or freshwater fish.
 eew,Alternative spelling of ew.
 eff,Fuck.
-efs,Plural form of ef., the name of the letter F.
+efs,Plural form of ef, the name of the letter F.
 eft,An immature newt.
 egg,A female gamete.
-ego,The self, especially as distinct from the world and other selves.
+ego,The self, as distinct from the world and other selves.
 eke,To supplement with great effort.
 eld,One's age.
 elf,A small creature considered to have magical powers.
@@ -249,23 +249,23 @@ ell,A wing of a building at right angles to the main structure.
 elm,A type of tree.
 els,Plural form of el.
 eme,An uncle.
-emo,A particular style of hardcore punk rock
+emo,A particular style of hardcore punk rock.
 ems,Plural form of em.
 emu,A large, flightless Australian bird.
-end,Either extremity of something that has length. 
-eng,The "ng" letter, used in the IPA, Saami, Mende, and others.
+end,Either extremity of something. 
+eng,The "ng" letter, used in the IPA and others.
 ens,Plural form of en.
 eon,An indefinitely long period of time.
 era,A period of time.
-ere,Previous to; before.
+ere,Before.
 erg,The centimeter-gram-second unit of energy.
 ern,Alternative spelling of erne.
-err,To make an error or a mistake.
-ers,Third-person singular simple present indicative form of er.
+err,To make an error.
+ers,Third-person form of er.
 ess,The letter s.
-est,Abbreviation of established.
-eta,The seventh letter of the Greek alphabet.
+est,established.
+eta,The seventh Greek letter.
 eth,Variant of edh.
-eve,The evening or day preceding a special day, such as a holiday.
-ewe,A female sheep, especially when full grown.
-eye,An organ of vision or of light sensitivity.
+eve,The evening or day preceding a special day.
+ewe,A female sheep.
+eye,An organ of vision.

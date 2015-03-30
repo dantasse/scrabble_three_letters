@@ -1,3 +1,20 @@
+rob,To take property illegally with violence.
+roc,A mythical bird of prey.
+rod,A thin straight piece or bar of material.
+roe,Fish eggs.
+rom,A Gipsy; a Romany.
+roo,Peace, quietness.
+rot,To decompose, decay.
+row,A line of objects.
+rub,To apply pressure and friction to a surface.
+rue,To feel regret, remorse, or sorrow for.
+rug,A heavy fabric used to cover a floor.
+rum,A liquor distilled from fermented molasses.
+run,To move swiftly on foot.
+rut,A sunken track made by the passage of vehicles.
+rya,A handwoven Scandinavian rug.
+rye,A grain.
+ryu,A school of Japanese martial arts.
 sab,To sob.
 sac,A pouchlike structure in a plant or an animal.
 sad,Characterized by sorrow or unhappiness.
@@ -40,8 +57,8 @@ sis,Informal   Sister.
 sit,To rest on the buttocks.
 six,The number equal to 5 + 1.
 ska,Popular music originating in Jamaica in the 1960s.
-ski,A long flat runner used for gliding or traveling over snow.
-sky,The air over any given point on the earth.
+ski,A long flat runner used for traveling over snow.
+sky,The air over the earth.
 sly,Clever or cunning.
 sob,To weep aloud with convulsive gasping.
 soc,Sociology or social science.
@@ -51,10 +68,10 @@ sol,Music   The fifth tone of the scale.
 som,A monetary unit of Kyrgyzstan.
 son,One's male child.
 sop,To dip, soak, or drench in a liquid.
-sos,Plural form of so, a note of the musical scale.
+sos,Plural of so, a note of the musical scale.
 sot,A drunkard.
 sou,A coin formerly used in France.
-sow,To scatter seed over the ground for growing.
+sow,To scatter seed for growing.
 sox,A plural of sock.
 soy,The soybean.
 spa,A resort providing therapeutic baths.
@@ -104,11 +121,11 @@ tie,To fasten or secure with a rope.
 til,The sesame plant.
 tin,A metallic element.
 tip,The end of a pointed or projecting object.
-tis,plural of ti, the seventh tone of the musical scale.
+tis,plural of ti, a tone of the musical scale.
 tit,A titmouse.
 tix,Tickets.
 tiz,Tizzy, a state of nervous confusion.
-tod,Chiefly British   A unit of weight for wool, about 28 pounds.
+tod,A British unit of weight, about 28 pounds.
 toe,One of the digits of a vertebrate.
 tog,Clothes.
 tom,The male of various animals.
@@ -120,7 +137,7 @@ tot,A small child.
 tow,To draw or pull behind by a chain or line.
 toy,An object for children to play with.
 try,To make an effort.
-tsk,Used to express disappointment or sympathy.
+tsk,An exclamation of annoyance.
 tub,An open, flat-bottomed vessel.
 tug,To pull at vigorously or repeatedly.
 tui,A honeyeater bird of New Zealand.
@@ -132,30 +149,30 @@ tux,Informal   A tuxedo.
 twa,Scots   Two.
 two,The number equal to 1 + 1.
 tye,a knot
-udo,A Japanese plant, eaten as a vegetable.
-ugh,Used to express horror, disgust, or repugnance.
+udo,A Japanese herb.
+ugh,The sound of a cough or grunt.
 uke,Informal   A ukulele.
 ulu,A kind of knife used by Eskimo women.
 umm,Interjection implying hesitation
 ump,An umpire.
-ums,plural of um, to hesitate or pause in speaking.
+ums,third person of um, to hesitate or pause in speaking.
 uni,uniform or university.
 uns,plural of un, one.
 upo,upon.
 ups,Plural form of up.
 urb,an urban area.
-urd,In Scand. myth., one of the three Fates.
+urd,An Indian bean.
 urn,A vase.
 urp,To vomit.
 use,To put into service for a purpose.
 uta,any of a genus of large lizards.
 ute,A vehicle similar to a pick-up truck.
-uts,plural of ut, the tone C in the scale now replaced by do.
+uts,plural of ut, the tone of the scale now replaced by do.
 vac,Informal   A vacuum cleaner.
 van,A vehicle, especially for transporting people.
 var,variable
-vas,Anatomy   A vessel or duct.
-vat,A large vessel used to hold or store liquids.
+vas,An anatomical duct.
+vat,A large vessel for holding liquids.
 vau,Variant of vav.
 vav,The sixth Hebrew letter.
 vaw,Alternative form of vav.
@@ -175,7 +192,7 @@ vog,Air pollution emitted by a volcano.
 vow,An earnest promise.
 vox,A voice.
 vug,A small cavity in a rock or vein.
-vum,New England   Used to express surprise.
+vum,Used to express surprise.
 wab,a web.
 wad,A small mass of soft material.
 wae,woe
