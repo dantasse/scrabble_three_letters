@@ -27,11 +27,6 @@
                 "file": "data/defns0.txt",
                 "name": "DEFNS_0",
                 "type": "raw"
-            },
-            {
-                "file": "data/defns.txt",
-                "name": "THREE_LETTERS",
-                "type": "raw"
             }
         ]
     },
