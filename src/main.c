@@ -127,18 +127,19 @@ void handle_init(void) {
   text_layer_set_text_alignment(date_layer, GTextAlignmentRight);
   layer_add_child(window_get_root_layer(my_window), text_layer_get_layer(date_layer));
 
-  word_layer = text_layer_create(GRect(0, 48, 144, 56));
+  word_layer = text_layer_create(GRect(0, 32, 144, 50));
   text_layer_set_background_color(word_layer, GColorClear);
   text_layer_set_text_color(word_layer, GColorBlack);
   text_layer_set_font(word_layer, fonts_get_system_font(FONT_KEY_BITHAM_42_BOLD));
   text_layer_set_text_alignment(word_layer, GTextAlignmentCenter);
   layer_add_child(window_get_root_layer(my_window), text_layer_get_layer(word_layer));
   
-  defn_layer = text_layer_create(GRect(0, 104, 144, 64));
+  defn_layer = text_layer_create(GRect(2, 78, 140, 90));
   text_layer_set_background_color(defn_layer, GColorClear);
   text_layer_set_text_color(defn_layer, GColorBlack);
   text_layer_set_font(defn_layer, fonts_get_system_font(FONT_KEY_GOTHIC_24));
   text_layer_set_text_alignment(defn_layer, GTextAlignmentLeft);
+  text_layer_set_overflow_mode(defn_layer, GTextOverflowModeWordWrap);
   layer_add_child(window_get_root_layer(my_window), text_layer_get_layer(defn_layer));
 
   // Show the Window on the watch, with animated=true
