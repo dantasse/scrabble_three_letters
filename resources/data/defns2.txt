@@ -25,10 +25,10 @@ lev,A monetary unit of Bulgaria.
 lex,Law.
 ley,Variant of lea.
 lez,A disparaging term for a lesbian.
-lib,A movement that seeks to achieve equal rights for a group.
-lid,A cover for a hollow receptacle or box.
+lib,A movement seeking equal rights for a group.
+lid,A cover for a box.
 lie,To recline. 
-lin,Linn, a waterfall or pool below a waterfall.
+lin,Linn, a pool below a waterfall.
 lip,Half of a mouth.
 lis,A controversy; a litigation.
 lit,A past tense and a past participle of light.
@@ -37,10 +37,10 @@ log,A large section of a fallen tree.
 loo,A card game.
 lop,To cut off a part. 
 lor,A variant of lord.
-lot,A large extent, amount, or number. 
-low,Having little relative height.
+lot,A large amount. 
+low,Having little height.
 lox,Smoked salmon.
-lud,A Middle English form of loud.
+lud,Middle English, loud.
 lug,A handle used as a hold or support.
 lum,A chimney.
 lun,A lee.
@@ -108,7 +108,7 @@ nag,To annoy by constant scolding or urging.
 nah,No.
 nam,Alternate form of nim, to steal.
 nan,Variant of naan, an Indian bread.
-nap,A brief sleep, often during the day.
+nap,A brief sleep.
 nav,Navigation.
 naw,No.
 nay,No. 
@@ -175,7 +175,7 @@ oot,anything
 opa,Grandfather.
 ope,open
 ops,Plural form of op.
-opt,To make a choice or decision. 
+opt,To make a decision. 
 ora,An orifice.
 orb,A spherical object.
 orc,A marine mammal.
@@ -200,14 +200,14 @@ pah,Used to express disgust or irritation.
 pak,deliberate misspelling of pack
 pal,A friend; a chum.
 pam,The highest trump in certain variations of loo.
-pan,A shallow, wide, open container, used cooking.
+pan,A shallow container used in cooking.
 pap,Midland U.S.   A nipple.
 par,An amount considered to be average.
 pas,A step or dance.
 pat,To tap gently with the open hand.
 paw,The foot of an animal.
-pax,A ceremonial embrace to signify Christian love and unity.
-pay,To give money in return for goods or services.
+pax,A Christian ceremonial embrace.
+pay,To give money for goods or services.
 pea,The edible seed of an annual herb.
 pec,Slang  A pectoral muscle.
 ped,A pedestrian.
@@ -219,7 +219,7 @@ pep,Energy and high spirits.
 per,To, for, or by each; for every.
 pes,A foot or footlike part.
 pet,An animal kept for companionship.
-pew,One of the long, fixed, backed benches in a church.
+pew,A long, fixed, backed bench in a church.
 phi,The 21st Greek letter.
 pho,A Vietnamese soup.
 pht,Used to signify mild annoyance or disagreement
@@ -261,7 +261,7 @@ put,To place in a specified location; set.
 pya,A copper coin of Myanmar (Burma).
 pye,Archaic spelling of pie.
 pyx,A container in which wafers for the Eucharist are kept.
-qat,Alternative form of khat.
+qat,Khat.
 qis,Plural form of qi.
 qua,In the capacity or character of; as.
 rad,An obsolete unit of energy absorbed from ionizing radiation.

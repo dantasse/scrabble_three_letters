@@ -92,7 +92,7 @@ ted,Chiefly New England   To strew or spread for drying.
 tee,The letter t.
 teg,A sheep before its first shearing.
 tel,telegraph
-ten,The cardinal number equal to 9 + 1.
+ten,The number equal to 9 + 1.
 tes,ti.
 tet,teth, a Hebrew letter.
 tew,A rope or chain for towing a boat.
@@ -130,7 +130,7 @@ tup,Chiefly British   A male sheep; a ram.
 tut,to utter an exclamation of impatience
 tux,Informal   A tuxedo.
 twa,Scots   Two.
-two,The cardinal number equal to the sum of 1 + 1.
+two,The number equal to 1 + 1.
 tye,a knot
 udo,A Japanese plant, eaten as a vegetable.
 ugh,Used to express horror, disgust, or repugnance.
@@ -208,7 +208,7 @@ won,Archaic   To dwell or abide.
 woo,To seek the affection of with intent to romance.
 wop,Offensive Slang   A disparaging term for an Italian person.
 wos,Woe.
-wot,Nonstandard spelling of "What".
+wot,Nonstandard spelling of What.
 wow,Used to express wonder.
 wry,Dryly humorous.
 wud,Mad.
